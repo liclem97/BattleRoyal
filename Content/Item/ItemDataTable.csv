@@ -1,0 +1,18 @@
+---,ItemClassID,ItemName,ItemEquipType,ItemSkeletalMesh,ItemStaticMesh,BP_Weapon
+101,101,전투복 상의,Equip_Upper,/Game/Characters/Female/Parts/SK_Female_Cloth_Upper_ACU.SK_Female_Cloth_Upper_ACU,/Game/Item/Meshes/SM_Female_Cloth_Upper_ACU.SM_Female_Cloth_Upper_ACU,None
+102,102,전투복 하의,Equip_Lower,/Game/Characters/Female/Parts/SK_Female_Cloth_Lower_ACU.SK_Female_Cloth_Lower_ACU,/Game/Item/Meshes/SM_Female_Cloth_Lower_ACU.SM_Female_Cloth_Lower_ACU,None
+103,103,전투헬맷,Equip_Helmet,/Game/Characters/Female/Parts/SK_Female_Cloth_Helmet_ACU.SK_Female_Cloth_Helmet_ACU,/Game/Item/Meshes/SM_Female_Cloth_Helmet_ACU.SM_Female_Cloth_Helmet_ACU,None
+104,104,캐미솔,Equip_Upper,/Game/Characters/Female/Parts/SK_Female_Cloth_Upper_Camisole.SK_Female_Cloth_Upper_Camisole,/Game/Item/Meshes/SM_Female_Cloth_Upper_Camisole.SM_Female_Cloth_Upper_Camisole,None
+105,105,티,Equip_Upper,/Game/Characters/Female/Parts/SK_Female_Cloth_Upper_Tee.SK_Female_Cloth_Upper_Tee,/Game/Item/Meshes/SM_Female_Cloth_Upper_Tee.SM_Female_Cloth_Upper_Tee,None
+106,106,레깅스,Equip_Lower,/Game/Characters/Female/Parts/SK_Female_Cloth_Lower_Leggings.SK_Female_Cloth_Lower_Leggings,/Game/Item/Meshes/SM_Female_Cloth_Lower_Leggings.SM_Female_Cloth_Lower_Leggings,None
+107,107,스키니,Equip_Lower,/Game/Characters/Female/Parts/SK_Female_Cloth_Lower_Skinny.SK_Female_Cloth_Lower_Skinny,/Game/Item/Meshes/SM_Female_Cloth_Lower_Skinny.SM_Female_Cloth_Lower_Skinny,None
+108,108,작업용 헬맷,Equip_Helmet,/Game/Characters/Female/Parts/SK_Female_Cloth_Helmet_HardHat.SK_Female_Cloth_Helmet_HardHat,/Game/Item/Meshes/SM_Female_Cloth_Helmet_HardHat.SM_Female_Cloth_Helmet_HardHat,None
+109,109,캔버스,Equip_Shoes,/Game/Characters/Female/Parts/SK_Female_Cloth_Shoes_Canvas.SK_Female_Cloth_Shoes_Canvas,/Game/Item/Meshes/SM_Female_Cloth_Shoes_Canvas.SM_Female_Cloth_Shoes_Canvas,None
+110,110,군화,Equip_Shoes,/Game/Characters/Female/Parts/SK_Female_Cloth_Shoes_TacticalBoots.SK_Female_Cloth_Shoes_TacticalBoots,/Game/Item/Meshes/SM_Female_Cloth_Shoes_TacticalBoots.SM_Female_Cloth_Shoes_TacticalBoots,None
+111,111,운동화,Equip_Shoes,/Game/Characters/Female/Parts/SK_Female_Cloth_Shoes_Running.SK_Female_Cloth_Shoes_Running,/Game/Item/Meshes/SM_Female_Cloth_Shoes_Running.SM_Female_Cloth_Shoes_Running,None
+112,112,라이플,Equip_Weapon,None,/Game/ArbitraryStudio/Weapons/SM_Rifle.SM_Rifle,BlueprintGeneratedClass'/Game/Weapons/BP_Rifle1.BP_Rifle1_C'
+113,113,BizonPP19,Equip_Weapon,None,/Game/ArbitraryStudio/Weapons-Firearms/SM_BizonPP19.SM_BizonPP19,None
+114,114,G36C,Equip_Weapon,None,/Game/ArbitraryStudio/Weapons-Firearms/SM_G36C-SF.SM_G36C-SF,None
+115,115,Galil,Equip_Weapon,None,/Game/ArbitraryStudio/Weapons-Firearms/SM_Galil.SM_Galil,None
+116,116,Mossberg500,Equip_Weapon,None,/Game/ArbitraryStudio/Weapons-Firearms/SM_Mossberg500Short.SM_Mossberg500Short,None
+117,117,StrikerShotgun,Equip_Weapon,None,/Game/ArbitraryStudio/Weapons-Firearms/SM_StrikerShotgun.SM_StrikerShotgun,Blueprint'/Game/Weapons/BP_Shotgun.BP_Shotgun'
