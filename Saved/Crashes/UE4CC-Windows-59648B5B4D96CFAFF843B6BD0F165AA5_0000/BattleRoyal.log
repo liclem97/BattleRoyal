@@ -1,0 +1,1307 @@
+﻿Log file open, 04/11/23 18:54:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BattleRoyal
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-115437253) SRandInit(-115437252).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.756088
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.084s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../UE_Project/BattleRoyal/Binaries/Win64/UE4Editor-BattleRoyal.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-A4CSULD (175.197.228.104:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Tools/EpicGames/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2023.04.11-09.54.13:359][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.11-09.54.13:359][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.04.11-09.54.13:367][  0]LogInit: Computer: DESKTOP-A4CSULD
+[2023.04.11-09.54.13:367][  0]LogInit: User: 82104
+[2023.04.11-09.54.13:367][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.04.11-09.54.13:367][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.11-09.54.13:367][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.04.11-09.54.13:367][  0]LogMemory: Platform Memory Stats for Windows
+[2023.04.11-09.54.13:367][  0]LogMemory: Process Physical Memory: 277.29 MB used, 277.30 MB peak
+[2023.04.11-09.54.13:367][  0]LogMemory: Process Virtual Memory: 272.38 MB used, 272.38 MB peak
+[2023.04.11-09.54.13:367][  0]LogMemory: Physical Memory: 11701.44 MB used,  21014.68 MB free, 32716.11 MB total
+[2023.04.11-09.54.13:367][  0]LogMemory: Virtual Memory: 4813.32 MB used,  21014.68 MB free, 134217728.00 MB total
+[2023.04.11-09.54.13:399][  0]LogInit: Using OS detected language (ko-KR).
+[2023.04.11-09.54.13:399][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.04.11-09.54.13:402][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2023.04.11-09.54.13:743][  0]LogStreaming: Display: Took  0.344s to EndInitTextLocalization.
+[2023.04.11-09.54.13:743][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.11-09.54.13:790][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.11-09.54.13:790][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.11-09.54.13:985][  0]LogD3D11RHI: D3D11 adapters:
+[2023.04.11-09.54.14:118][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2023.04.11-09.54.14:118][  0]LogD3D11RHI:       5979/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.04.11-09.54.14:120][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.04.11-09.54.14:120][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.04.11-09.54.14:120][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.04.11-09.54.14:127][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.04.11-09.54.14:127][  0]LogD3D11RHI:     GPU DeviceId: 0x2182 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.11-09.54.14:127][  0]LogWindows: EnumDisplayDevices:
+[2023.04.11-09.54.14:128][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2023.04.11-09.54.14:128][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:1)
+[2023.04.11-09.54.14:128][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.04.11-09.54.14:128][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.04.11-09.54.14:128][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2023.04.11-09.54.14:128][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2023.04.11-09.54.14:128][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2023.04.11-09.54.14:128][  0]LogD3D11RHI:      Driver Date: Unknown
+[2023.04.11-09.54.14:128][  0]LogRHI: Texture pool is 4185 MB (70% of 5979 MB)
+[2023.04.11-09.54.14:228][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2023.04.11-09.54.14:228][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2023.04.11-09.54.14:228][  0]LogD3D11RHI: Async texture creation enabled
+[2023.04.11-09.54.14:244][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.04.11-09.54.14:245][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2023.04.11-09.54.14:245][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../../../UE_Project/BattleRoyal/Intermediate/Shaders/WorkingDirectory/12432/).
+[2023.04.11-09.54.14:246][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wonjeong/AppData/Local/Temp/UnrealShaderWorkingDir/A99AD26148F619BF5633DF9E6198A97E/'.
+[2023.04.11-09.54.14:435][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2023.04.11-09.54.14:449][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2023.04.11-09.54.14:463][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2023.04.11-09.54.14:477][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2023.04.11-09.54.14:492][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2023.04.11-09.54.14:506][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2023.04.11-09.54.14:520][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2023.04.11-09.54.14:535][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2023.04.11-09.54.14:541][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2023.04.11-09.54.14:554][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2023.04.11-09.54.14:566][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2023.04.11-09.54.14:579][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2023.04.11-09.54.14:592][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2023.04.11-09.54.14:604][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2023.04.11-09.54.14:617][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2023.04.11-09.54.14:643][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2023.04.11-09.54.14:643][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2023.04.11-09.54.14:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.04.11-09.54.14:657][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2023.04.11-09.54.14:696][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2023.04.11-09.54.14:709][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2023.04.11-09.54.14:722][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2023.04.11-09.54.14:735][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2023.04.11-09.54.14:748][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2023.04.11-09.54.14:762][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2023.04.11-09.54.14:762][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.04.11-09.54.14:859][  0]LogXGEController: Cleaning working directory: C:/Users/Wonjeong/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.04.11-09.54.14:859][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.11-09.54.14:859][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.04.11-09.54.14:859][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.04.11-09.54.15:491][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.04.11-09.54.15:549][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Wonjeong/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2023.04.11-09.54.15:549][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wonjeong/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2023.04.11-09.54.15:549][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UE_Project/BattleRoyal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.11-09.54.15:549][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.04.11-09.54.15:549][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UE_Project/BattleRoyal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.11-09.54.15:549][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.04.11-09.54.15:565][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.04.11-09.54.15:577][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wonjeong/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.11-09.54.15:577][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.11-09.54.15:577][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.04.11-09.54.15:588][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.04.11-09.54.15:588][  0]LogSlate: Using Freetype 2.6.0
+[2023.04.11-09.54.15:589][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.11-09.54.15:589][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.11-09.54.15:700][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2023.04.11-09.54.15:991][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.11-09.54.16:107][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2023.04.11-09.54.16:110][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2023.04.11-09.54.16:110][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.11-09.54.16:110][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2023.04.11-09.54.16:110][  0]LogMeshReduction: No automatic mesh merging module available
+[2023.04.11-09.54.16:110][  0]LogMeshMerging: No automatic mesh merging module available
+[2023.04.11-09.54.16:140][  0]LogNetVersion: BattleRoyal , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3060849375)
+[2023.04.11-09.54.16:522][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.059926 seconds
+[2023.04.11-09.54.16:528][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2023.04.11-09.54.16:528][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2023.04.11-09.54.16:528][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.11-09.54.17:901][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.11-09.54.17:929][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.11-09.54.18:157][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.499100ms] /Game/Characters/Female/Parts/SK_Female_Body_Head.SK_Female_Body_Head
+[2023.04.11-09.54.18:277][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.04.11-09.54.18:277][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.04.11-09.54.18:292][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.04.11-09.54.18:307][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.04.11-09.54.18:722][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.11-09.54.18:867][  0]LogOcInput: OculusInput pre-init called
+[2023.04.11-09.54.18:963][  0]LogEngine: Initializing Engine...
+[2023.04.11-09.54.18:964][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.11-09.54.18:966][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2023.04.11-09.54.18:966][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2023.04.11-09.54.19:123][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.11-09.54.19:149][  0]LogInit: XAudio2 using '24MP76(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.04.11-09.54.19:163][  0]LogInit: FAudioDevice initialized.
+[2023.04.11-09.54.19:244][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Wonjeong/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2023.04.11-09.54.19:250][  0]LogInit: Texture streaming: Enabled
+[2023.04.11-09.54.19:266][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.11-09.54.19:266][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={CA3A204C-45F0-FE7E-616E-53AFB86D8F2B}
+[2023.04.11-09.54.19:279][  0]LogInit: Transaction tracking system initialized
+[2023.04.11-09.54.19:300][  0]BlueprintLog: New page: 에디터 로드
+[2023.04.11-09.54.19:368][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2023.04.11-09.54.19:457][  0]LogConsoleResponse: Display: 
+[2023.04.11-09.54.19:573][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.04.11-09.54.19:573][  0]LogCook: Display: Mobile HDR setting 1
+[2023.04.11-09.54.19:573][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2023.04.11-09.54.19:573][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2023.04.11-09.54.19:573][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2023.04.11-09.54.19:886][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.04.11-09.54.19:887][  0]Cmd: MAP LOAD FILE="../../../../../../UE_Project/BattleRoyal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.11-09.54.19:887][  0]LightingResults: New page: 라이팅 빌드
+[2023.04.11-09.54.19:889][  0]MapCheck: New page: 맵 체크
+[2023.04.11-09.54.19:889][  0]LightingResults: New page: 라이팅 빌드
+[2023.04.11-09.54.19:981][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca25a6738, Size=4, Default__BP_FieldItem_C Function /Game/Item/BP_FieldItem.BP_FieldItem_C:ExecuteUbergraph_BP_FieldItem
+[2023.04.11-09.54.19:983][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca25a6738, Size=4
+[2023.04.11-09.54.19:983][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca25a6738, Size=4, Default__BP_FieldItem_C Function /Engine/Transient.REINST_BP_FieldItem_C_5:ExecuteUbergraph_BP_FieldItem
+[2023.04.11-09.54.19:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca25a6818, Size=4, Default__BP_FieldItem_C Function /Game/Item/BP_FieldItem.BP_FieldItem_C:ExecuteUbergraph_BP_FieldItem
+[2023.04.11-09.54.20:008][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca2503880, Size=88, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.11-09.54.20:011][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca293f580, Size=368, Default__AnimBP_Player_C Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player
+[2023.04.11-09.54.20:054][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca293f580, Size=368
+[2023.04.11-09.54.20:054][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca567c280, Size=368, Default__AnimBP_Player_C Function /Engine/Transient.REINST_AnimBP_Player_C_0:ExecuteUbergraph_AnimBP_Player
+[2023.04.11-09.54.20:054][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca2503880, Size=88
+[2023.04.11-09.54.20:054][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca2503880, Size=88, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_7:ExecuteUbergraph_BP_Player
+[2023.04.11-09.54.20:081][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca5508d00, Size=368, Default__AnimBP_Player_C Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player
+[2023.04.11-09.54.20:083][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca5523a60, Size=88, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.11-09.54.20:195][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.085000ms] /Game/Characters/Female/Parts/SK_Female_Body_Upper.SK_Female_Body_Upper
+[2023.04.11-09.54.20:196][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.720600ms] /Game/Characters/Female/Parts/SK_Female_Body_Lower.SK_Female_Body_Lower
+[2023.04.11-09.54.20:200][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.733900ms] /Game/Characters/Female/Parts/SK_Female_Cloth_Helmet_Hair.SK_Female_Cloth_Helmet_Hair
+[2023.04.11-09.54.20:286][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.11-09.54.20:292][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.11-09.54.20:300][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca25a6738, Size=4
+[2023.04.11-09.54.20:300][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca2503880, Size=88
+[2023.04.11-09.54.20:300][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca567c280, Size=368
+[2023.04.11-09.54.20:302][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.11-09.54.20:348][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 45.587ms.
+[2023.04.11-09.54.20:348][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.462
+[2023.04.11-09.54.20:484][  0]LogCollectionManager: Loaded 0 collections in 0.001507 seconds
+[2023.04.11-09.54.20:527][  0]LogFileCache: Scanning file cache for directory 'D:/UE_Project/BattleRoyal/Saved/Collections/' took 0.01s
+[2023.04.11-09.54.20:527][  0]LogFileCache: Scanning file cache for directory 'D:/UE_Project/BattleRoyal/Content/Developers/82104/Collections/' took 0.01s
+[2023.04.11-09.54.20:527][  0]LogFileCache: Scanning file cache for directory 'D:/UE_Project/BattleRoyal/Content/Collections/' took 0.01s
+[2023.04.11-09.54.20:527][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2023.04.11-09.54.20:537][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2458 classes and 561 folders.
+[2023.04.11-09.54.20:545][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2023.04.11-09.54.20:586][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2023.04.11-09.54.20:592][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2023.04.11-09.54.20:657][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.11-09.54.20:661][  0]LogSlate: Took 0.002554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.04.11-09.54.20:664][  0]LogSlate: Took 0.002410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2023.04.11-09.54.20:664][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.11-09.54.20:669][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.11-09.54.20:753][  0]LogRenderer: Reallocating scene render targets to support 1872x668 Format 10 NumSamples 1 (Frame:1).
+[2023.04.11-09.54.20:870][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2023.04.11-09.54.20:870][  0]LogLoad: (Engine Initialization) Total time: 10.87 seconds
+[2023.04.11-09.54.20:870][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.11-09.54.20:902][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.11-09.54.20:951][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.11-09.54.20:978][  1]LogAssetRegistry: Asset discovery search completed in 5.3012 seconds
+[2023.04.11-09.54.20:980][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2023.04.11-09.54.20:980][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2023.04.11-09.54.21:905][102]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.11-09.54.23:466][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.04.11-09.54.23:469][279]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.11-09.54.23:509][279]LogSlate: Took 0.001945 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2023.04.11-09.54.24:351][379]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.04.11-09.54.24:365][379]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-09.54.24:366][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.11-09.54.24:367][379]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 4. 12. 오전 3:54:24)
+[2023.04.11-09.54.24:367][379]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.11-09.54.24:386][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019159s)
+[2023.04.11-09.54.24:387][379]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.11-09.54.24:387][379]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2023.04.11-09.54.24:388][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020564s)
+[2023.04.11-09.54.24:416][379]LogInit: XAudio2 using '24MP76(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.04.11-09.54.24:425][379]LogInit: FAudioDevice initialized.
+[2023.04.11-09.54.24:478][379]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.11-09.54.24:480][379]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.11-18.54.24
+[2023.04.11-09.54.24:480][379]LogWorld: Bringing up level for play took: 0.001318
+[2023.04.11-09.54.24:484][379]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2023.04.11-09.54.24:487][379]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.345
+[2023.04.11-09.54.24:487][379]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-09.54.25:542][497]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:550][498]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:558][499]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:567][500]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:575][501]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:583][502]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:592][503]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:600][504]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:608][505]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:617][506]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:625][507]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:633][508]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:642][509]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:650][510]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:658][511]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:667][512]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:675][513]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:683][514]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:692][515]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:700][516]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:708][517]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:717][518]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:725][519]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:733][520]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:742][521]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:750][522]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:758][523]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:767][524]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:775][525]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:783][526]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:792][527]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:800][528]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:808][529]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:817][530]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:825][531]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:833][532]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:842][533]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:850][534]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:858][535]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:867][536]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:875][537]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:883][538]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:892][539]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:900][540]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:908][541]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:917][542]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:925][543]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:933][544]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:942][545]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:950][546]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:958][547]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:967][548]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:975][549]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:983][550]LogTemp: 전투복 상의
+[2023.04.11-09.54.25:992][551]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:000][552]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:008][553]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:017][554]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:025][555]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:033][556]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:042][557]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:050][558]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:058][559]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:067][560]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:075][561]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:083][562]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:092][563]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:100][564]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:108][565]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:117][566]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:125][567]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:133][568]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:141][569]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:150][570]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:158][571]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:166][572]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:175][573]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:183][574]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:192][575]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:200][576]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:208][577]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:217][578]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:225][579]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:233][580]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:242][581]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:250][582]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:258][583]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:267][584]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:275][585]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:283][586]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:292][587]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:300][588]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:308][589]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:317][590]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:325][591]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:333][592]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:341][593]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:350][594]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:358][595]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:367][596]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:375][597]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:383][598]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:391][599]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:400][600]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:408][601]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:416][602]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:425][603]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:433][604]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:441][605]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:450][606]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:458][607]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:466][608]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:475][609]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:483][610]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:492][611]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:500][612]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:508][613]LogTemp: 전투복 상의
+[2023.04.11-09.54.26:516][614]LogTemp: 전투복 상의
+[2023.04.11-09.54.28:950][906]LogTemp: 전투복 상의
+[2023.04.11-09.54.28:958][907]LogTemp: 전투복 상의
+[2023.04.11-09.54.28:967][908]LogTemp: 전투복 상의
+[2023.04.11-09.54.28:975][909]LogTemp: 전투복 상의
+[2023.04.11-09.54.28:983][910]LogTemp: 전투복 상의
+[2023.04.11-09.54.28:992][911]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:000][912]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:008][913]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:017][914]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:025][915]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:033][916]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:042][917]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:050][918]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:058][919]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:067][920]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:075][921]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:083][922]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:092][923]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:100][924]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:108][925]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:117][926]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:125][927]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:133][928]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:142][929]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:150][930]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:158][931]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:167][932]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:175][933]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:183][934]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:192][935]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:200][936]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:208][937]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:217][938]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:225][939]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:233][940]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:242][941]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:250][942]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:258][943]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:267][944]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:275][945]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:283][946]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:292][947]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:300][948]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:308][949]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:317][950]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:325][951]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:333][952]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:342][953]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:350][954]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:358][955]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:367][956]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:375][957]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:383][958]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:392][959]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:400][960]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:408][961]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:417][962]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:425][963]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:434][964]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:442][965]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:450][966]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:458][967]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:467][968]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:475][969]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:483][970]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:492][971]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:500][972]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:508][973]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:517][974]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:525][975]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:533][976]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:542][977]LogTemp: 전투복 상의
+[2023.04.11-09.54.29:550][978]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:601][224]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:610][225]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:618][226]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:627][227]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:635][228]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:643][229]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:651][230]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:660][231]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:668][232]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:676][233]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:685][234]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:693][235]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:701][236]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:710][237]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:718][238]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:726][239]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:735][240]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:743][241]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:751][242]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:760][243]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:768][244]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:776][245]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:785][246]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:793][247]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:801][248]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:810][249]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:818][250]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:826][251]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:835][252]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:843][253]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:851][254]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:860][255]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:868][256]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:876][257]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:885][258]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:893][259]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:901][260]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:910][261]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:918][262]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:926][263]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:935][264]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:943][265]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:951][266]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:960][267]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:968][268]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:976][269]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:985][270]LogTemp: 전투복 상의
+[2023.04.11-09.54.31:993][271]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:001][272]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:010][273]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:018][274]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:026][275]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:035][276]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:043][277]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:051][278]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:060][279]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:068][280]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:076][281]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:085][282]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:093][283]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:101][284]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:110][285]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:118][286]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:126][287]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:135][288]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:143][289]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:151][290]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:160][291]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:168][292]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:176][293]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:185][294]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:193][295]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:201][296]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:210][297]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:218][298]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:226][299]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:235][300]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:243][301]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:251][302]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:260][303]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:268][304]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:276][305]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:285][306]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:293][307]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:301][308]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:310][309]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:318][310]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:326][311]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:335][312]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:343][313]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:351][314]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:360][315]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:368][316]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:377][317]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:385][318]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:393][319]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:401][320]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:410][321]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:418][322]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:426][323]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:435][324]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:443][325]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:452][326]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:460][327]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:468][328]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:477][329]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:485][330]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:493][331]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:502][332]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:510][333]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:518][334]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:527][335]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:535][336]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:543][337]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:551][338]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:560][339]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:568][340]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:577][341]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:585][342]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:593][343]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:601][344]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:610][345]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:618][346]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:627][347]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:635][348]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:643][349]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:651][350]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:660][351]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:668][352]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:677][353]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:685][354]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:693][355]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:702][356]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:710][357]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:718][358]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:727][359]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:735][360]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:743][361]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:752][362]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:760][363]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:768][364]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:777][365]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:785][366]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:793][367]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:801][368]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:810][369]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:818][370]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:827][371]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:835][372]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:843][373]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:852][374]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:860][375]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:868][376]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:877][377]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:885][378]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:893][379]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:901][380]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:910][381]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:918][382]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:927][383]LogTemp: 전투복 상의
+[2023.04.11-09.54.32:935][384]LogTemp: 전투복 상의
+[2023.04.11-09.54.35:418][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-09.54.35:518][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-09.59.20:402][762]LogHotReload: New module detected: UE4Editor-BattleRoyal-1541.dll
+[2023.04.11-09.59.21:082][765]LogHotReload: Starting Hot-Reload from IDE
+[2023.04.11-09.59.21:136][765]LogClass: EItemEquipType HotReload.
+[2023.04.11-09.59.21:136][765]LogClass: ITemTableRow HotReload.
+[2023.04.11-09.59.21:136][765]LogClass: HitScanTrace HotReload.
+[2023.04.11-09.59.21:139][765]LogHotReload: Re-instancing BRCharacter after hot-reload.
+[2023.04.11-09.59.21:154][765]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca5523a60, Size=88
+[2023.04.11-09.59.21:154][765]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fcf912dea0, Size=88, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_16:ExecuteUbergraph_BP_Player
+[2023.04.11-09.59.21:157][765]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fcf912e980, Size=88, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.11-09.59.21:312][765]LogContentBrowser: Native class hierarchy updated for 'BattleRoyal' in 0.0009 seconds. Added 6 classes and 3 folders.
+[2023.04.11-09.59.21:314][765]Display: HotReload successful (4 functions remapped  2 scriptstructs remapped)
+[2023.04.11-09.59.21:503][765]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2459 classes and 563 folders.
+[2023.04.11-09.59.21:510][765]Display: HotReload took  0.4s.
+[2023.04.11-10.00.02:184][887]LogHotReload: New module detected: UE4Editor-BattleRoyal-4132.dll
+[2023.04.11-10.00.02:865][890]LogHotReload: Starting Hot-Reload from IDE
+[2023.04.11-10.00.02:916][890]LogClass: EItemEquipType HotReload.
+[2023.04.11-10.00.02:916][890]LogClass: ITemTableRow HotReload.
+[2023.04.11-10.00.02:916][890]LogClass: HitScanTrace HotReload.
+[2023.04.11-10.00.02:919][890]LogHotReload: Re-instancing BRCharacter after hot-reload.
+[2023.04.11-10.00.02:933][890]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fcf912e980, Size=88
+[2023.04.11-10.00.02:934][890]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca68a2080, Size=88, BP_Player_C_1 Function /Engine/Transient.REINST_BP_Player_C_21:ExecuteUbergraph_BP_Player
+[2023.04.11-10.00.02:937][890]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fca68a12a0, Size=88, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.11-10.00.03:087][890]LogContentBrowser: Native class hierarchy updated for 'BattleRoyal' in 0.0009 seconds. Added 6 classes and 3 folders.
+[2023.04.11-10.00.03:089][890]Display: HotReload successful (4 functions remapped  2 scriptstructs remapped)
+[2023.04.11-10.00.03:109][890]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca68a2080, Size=88
+[2023.04.11-10.00.03:124][890]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2459 classes and 563 folders.
+[2023.04.11-10.00.03:132][890]Display: HotReload took  0.3s.
+[2023.04.11-10.00.05:205][897]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.04.11-10.00.06:399][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.04.11-10.00.06:466][ 45]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.04.11-10.00.06:480][ 45]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-10.00.06:481][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.11-10.00.06:481][ 45]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 4. 12. 오전 4:00:06)
+[2023.04.11-10.00.06:481][ 45]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.11-10.00.06:494][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012140s)
+[2023.04.11-10.00.06:495][ 45]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.11-10.00.06:495][ 45]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2023.04.11-10.00.06:495][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013840s)
+[2023.04.11-10.00.06:516][ 45]LogInit: XAudio2 using '24MP76(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.04.11-10.00.06:525][ 45]LogInit: FAudioDevice initialized.
+[2023.04.11-10.00.06:557][ 45]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.11-10.00.06:559][ 45]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.11-19.00.06
+[2023.04.11-10.00.06:559][ 45]LogWorld: Bringing up level for play took: 0.001205
+[2023.04.11-10.00.06:561][ 45]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.419
+[2023.04.11-10.00.06:562][ 45]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-10.00.07:118][109]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:126][110]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:135][111]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:143][112]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:151][113]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:160][114]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:167][115]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:176][116]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:184][117]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:193][118]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:201][119]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:209][120]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:218][121]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:226][122]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:234][123]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:242][124]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:251][125]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:259][126]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:268][127]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:276][128]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:284][129]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:293][130]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:301][131]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:309][132]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:318][133]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:326][134]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:334][135]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:343][136]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:351][137]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:359][138]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:368][139]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:376][140]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:384][141]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:393][142]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:401][143]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:409][144]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:417][145]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:426][146]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:434][147]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:442][148]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:451][149]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:460][150]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:467][151]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:476][152]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:484][153]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:493][154]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:501][155]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:509][156]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:517][157]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:526][158]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:535][159]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:543][160]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:551][161]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:559][162]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:568][163]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:576][164]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:585][165]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:593][166]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:601][167]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:609][168]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:618][169]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:626][170]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:634][171]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:643][172]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:651][173]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:660][174]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:668][175]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:676][176]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:685][177]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:693][178]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:701][179]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:709][180]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:718][181]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:726][182]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:734][183]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:742][184]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:751][185]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:759][186]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:767][187]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:776][188]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:784][189]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:792][190]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:801][191]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:809][192]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:817][193]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:826][194]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:834][195]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:842][196]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:851][197]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:859][198]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:867][199]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:876][200]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:884][201]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:892][202]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:901][203]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:909][204]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:917][205]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:926][206]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:934][207]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:942][208]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:951][209]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:959][210]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:967][211]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:976][212]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:984][213]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.07:992][214]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:001][215]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:009][216]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:017][217]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:026][218]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:034][219]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:042][220]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:051][221]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:059][222]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:067][223]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:076][224]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:084][225]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:092][226]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:101][227]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:109][228]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.08:117][229]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.00.11:294][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-10.00.11:325][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-10.00.16:442][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.04.11-10.00.28:041][206]LogK2Compiler: Warning: ValidateVariableNames name InteractionText (used in /Game/Characters/HUD/WidgetBP_Interaction.WidgetBP_Interaction) is already taken by /Script/BattleRoyal.BRInteractionWidget:InteractionText
+[2023.04.11-10.00.28:041][206]LogBlueprint: Warning: [Compiler WidgetBP_Interaction] 멤버 변수에 이름 충돌이 있어 변경했습니다: InteractionText -> InteractionText_0.
+[2023.04.11-10.00.28:043][206]LogClass: Warning: Type mismatch in InteractionText of WidgetBP_Interaction_C - Previous (StrProperty) Current(ObjectProperty) for package:  FObjectReader
+[2023.04.11-10.00.28:044][206]LogBlueprint: Warning: [Compiler WidgetBP_Interaction] [0378.04] WidgetBP_Interaction 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 3 ms] (/Game/Characters/HUD/WidgetBP_Interaction.WidgetBP_Interaction)
+[2023.04.11-10.00.28:336][206]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2023.04.11-10.00.28:610][206]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd0abb88c0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2023.04.11-10.00.28:611][206]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd0abb8888, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2023.04.11-10.00.28:996][206]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.11-10.00.29:016][206]LogSlate: Took 0.002122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.04.11-10.01.47:885][692]LogSlate: Window 'WidgetBP_Interaction*' being destroyed
+[2023.04.11-10.01.57:819][852]BlueprintLog: New page: WidgetBP_Interaction 컴파일
+[2023.04.11-10.01.57:824][852]LogClass: Warning: Type mismatch in NewText of WidgetBP_Interaction_C - Previous (ObjectProperty) Current(StrProperty) for package:  FObjectReader
+[2023.04.11-10.01.57:838][852]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fcf912dea0, Size=88
+[2023.04.11-10.01.57:862][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/HUD/WidgetBP_Interaction" FILE="../../../../../../UE_Project/BattleRoyal/Content/Characters/HUD/WidgetBP_Interaction.uasset" SILENT=true
+[2023.04.11-10.01.57:877][852]LogSavePackage: Save=9.76ms
+[2023.04.11-10.01.57:877][852]LogSavePackage: Moving '../../../../../../UE_Project/BattleRoyal/Saved/WidgetBP_InteractionFCF03A5741F45B1DC70870978606A0E6.tmp' to '../../../../../../UE_Project/BattleRoyal/Content/Characters/HUD/WidgetBP_Interaction.uasset'
+[2023.04.11-10.01.57:879][852]LogSavePackage: Display: Finished SavePackage ../../../../../../UE_Project/BattleRoyal/Content/Characters/HUD/WidgetBP_Interaction.uasset
+[2023.04.11-10.02.04:838][137]LogHotReload: New module detected: UE4Editor-BattleRoyal-5146.dll
+[2023.04.11-10.02.05:849][141]LogHotReload: Starting Hot-Reload from IDE
+[2023.04.11-10.02.05:901][141]LogClass: EItemEquipType HotReload.
+[2023.04.11-10.02.05:901][141]LogClass: ITemTableRow HotReload.
+[2023.04.11-10.02.05:901][141]LogClass: HitScanTrace HotReload.
+[2023.04.11-10.02.05:905][141]LogHotReload: Re-instancing BRCharacter after hot-reload.
+[2023.04.11-10.02.05:919][141]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fca68a12a0, Size=88
+[2023.04.11-10.02.05:920][141]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd0c121ea0, Size=88, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_42:ExecuteUbergraph_BP_Player
+[2023.04.11-10.02.05:923][141]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd0c120820, Size=88, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.11-10.02.06:170][141]LogContentBrowser: Native class hierarchy updated for 'BattleRoyal' in 0.0009 seconds. Added 6 classes and 3 folders.
+[2023.04.11-10.02.06:173][141]Display: HotReload successful (4 functions remapped  2 scriptstructs remapped)
+[2023.04.11-10.02.06:452][141]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2459 classes and 563 folders.
+[2023.04.11-10.02.06:459][141]Display: HotReload took  0.6s.
+[2023.04.11-10.02.19:467][180]LogHotReload: New module detected: UE4Editor-BattleRoyal-7147.dll
+[2023.04.11-10.02.20:480][184]LogHotReload: Starting Hot-Reload from IDE
+[2023.04.11-10.02.20:557][184]LogClass: EItemEquipType HotReload.
+[2023.04.11-10.02.20:557][184]LogClass: ITemTableRow HotReload.
+[2023.04.11-10.02.20:557][184]LogClass: HitScanTrace HotReload.
+[2023.04.11-10.02.20:561][184]LogHotReload: Re-instancing BRCharacter after hot-reload.
+[2023.04.11-10.02.20:576][184]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd0c120820, Size=88
+[2023.04.11-10.02.20:576][184]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fcde025e40, Size=88, BP_Player_C_3 Function /Engine/Transient.REINST_BP_Player_C_47:ExecuteUbergraph_BP_Player
+[2023.04.11-10.02.20:579][184]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fcde026c80, Size=88, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.11-10.02.20:828][184]LogContentBrowser: Native class hierarchy updated for 'BattleRoyal' in 0.0009 seconds. Added 6 classes and 3 folders.
+[2023.04.11-10.02.20:832][184]Display: HotReload successful (4 functions remapped  2 scriptstructs remapped)
+[2023.04.11-10.02.20:867][184]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fcde025e40, Size=88
+[2023.04.11-10.02.21:124][184]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2459 classes and 563 folders.
+[2023.04.11-10.02.21:130][184]Display: HotReload took  0.6s.
+[2023.04.11-10.02.23:695][366]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.04.11-10.02.23:718][366]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-10.02.23:719][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.11-10.02.23:719][366]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 4. 12. 오전 4:02:23)
+[2023.04.11-10.02.23:719][366]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.11-10.02.23:731][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011498s)
+[2023.04.11-10.02.23:732][366]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.11-10.02.23:732][366]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2023.04.11-10.02.23:733][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013244s)
+[2023.04.11-10.02.23:786][366]LogInit: XAudio2 using '24MP76(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.04.11-10.02.23:794][366]LogInit: FAudioDevice initialized.
+[2023.04.11-10.02.23:825][366]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.11-10.02.23:827][366]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.11-19.02.23
+[2023.04.11-10.02.23:827][366]LogWorld: Bringing up level for play took: 0.001208
+[2023.04.11-10.02.23:829][366]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.313
+[2023.04.11-10.02.23:830][366]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-10.02.25:413][553]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:422][554]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:430][555]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:438][556]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:446][557]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:454][558]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:463][559]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:471][560]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:480][561]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:488][562]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:496][563]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:504][564]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:513][565]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:521][566]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:530][567]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:538][568]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:546][569]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:554][570]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:562][571]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:571][572]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:579][573]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:588][574]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:596][575]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:604][576]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:613][577]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:621][578]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:629][579]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:638][580]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:646][581]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:655][582]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:663][583]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:671][584]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:679][585]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:688][586]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:696][587]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:704][588]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:713][589]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:721][590]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:729][591]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:737][592]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:746][593]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:754][594]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:762][595]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:771][596]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:779][597]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:788][598]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:796][599]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:804][600]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:813][601]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:821][602]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:829][603]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:838][604]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:846][605]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:854][606]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:863][607]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:871][608]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:879][609]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:887][610]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:896][611]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:905][612]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:913][613]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:921][614]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:930][615]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:938][616]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:946][617]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:954][618]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:962][619]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:971][620]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:979][621]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:987][622]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.25:996][623]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:004][624]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:013][625]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:021][626]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:029][627]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:038][628]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:046][629]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:054][630]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:062][631]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:071][632]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:079][633]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:087][634]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:096][635]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:104][636]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:113][637]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:121][638]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:129][639]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:137][640]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:146][641]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:154][642]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:163][643]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:171][644]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:179][645]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:187][646]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:196][647]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:204][648]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:212][649]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:221][650]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:229][651]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:237][652]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:246][653]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.26:254][654]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.27:004][743]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-10.02.27:042][743]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-10.02.29:194][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.04.11-10.02.37:698][ 13]BlueprintLog: New page: WidgetBP_Interaction 컴파일
+[2023.04.11-10.02.41:842][503]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.04.11-10.02.41:859][503]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-10.02.41:860][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.11-10.02.41:860][503]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 4. 12. 오전 4:02:41)
+[2023.04.11-10.02.41:861][503]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.11-10.02.41:872][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011374s)
+[2023.04.11-10.02.41:873][503]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.11-10.02.41:874][503]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2023.04.11-10.02.41:874][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013013s)
+[2023.04.11-10.02.41:905][503]LogInit: XAudio2 using '24MP76(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.04.11-10.02.41:913][503]LogInit: FAudioDevice initialized.
+[2023.04.11-10.02.41:947][503]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.11-10.02.41:949][503]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.11-19.02.41
+[2023.04.11-10.02.41:949][503]LogWorld: Bringing up level for play took: 0.001225
+[2023.04.11-10.02.41:951][503]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.191
+[2023.04.11-10.02.41:952][503]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-10.02.42:518][568]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:526][569]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:535][570]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:543][571]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:551][572]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:560][573]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:568][574]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:576][575]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:584][576]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:593][577]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:601][578]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:609][579]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:617][580]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:626][581]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:634][582]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:643][583]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:651][584]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:659][585]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:668][586]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:676][587]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:685][588]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:693][589]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:701][590]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:709][591]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:718][592]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:726][593]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:735][594]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:743][595]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:751][596]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:759][597]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:768][598]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:776][599]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:784][600]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:792][601]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:801][602]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:809][603]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:817][604]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:826][605]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:834][606]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:842][607]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:851][608]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:859][609]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:867][610]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:876][611]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:884][612]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:892][613]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:901][614]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:909][615]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:917][616]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:926][617]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:934][618]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:942][619]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:951][620]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:959][621]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:967][622]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:976][623]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:984][624]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.42:992][625]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:001][626]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:009][627]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:017][628]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:026][629]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:034][630]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:042][631]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:051][632]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:059][633]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:067][634]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:076][635]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:084][636]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:092][637]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:101][638]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:109][639]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:117][640]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:126][641]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:134][642]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:142][643]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:151][644]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:159][645]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:167][646]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:176][647]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:184][648]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:192][649]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:201][650]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:209][651]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:217][652]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:226][653]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:234][654]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:242][655]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:251][656]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:259][657]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:267][658]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:276][659]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:284][660]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:292][661]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:301][662]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:309][663]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:317][664]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:326][665]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:334][666]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:342][667]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:351][668]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:359][669]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:367][670]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.43:376][671]LogTemp: Warning: InteractionText is not valid
+[2023.04.11-10.02.44:176][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-10.02.44:212][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.11-10.03.29:692][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.04.11-10.05.11:781][484]LogHotReload: New module detected: UE4Editor-BattleRoyal-9143.dll
+[2023.04.11-10.05.12:795][488]LogHotReload: Starting Hot-Reload from IDE
+[2023.04.11-10.05.12:849][488]LogClass: Could not find existing class BRInteractionWidget in package /Script/BattleRoyal for HotReload, assuming new class
+[2023.04.11-10.05.12:853][488]LogClass: EItemEquipType HotReload.
+[2023.04.11-10.05.12:854][488]LogClass: ITemTableRow HotReload.
+[2023.04.11-10.05.12:854][488]LogClass: HitScanTrace HotReload.
+[2023.04.11-10.05.12:857][488]LogHotReload: Re-instancing BRCharacter after hot-reload.
+[2023.04.11-10.05.12:872][488]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fcde026c80, Size=88
+[2023.04.11-10.05.12:872][488]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fcee302020, Size=88, BP_Player_C_4 Function /Engine/Transient.REINST_BP_Player_C_54:ExecuteUbergraph_BP_Player
+[2023.04.11-10.05.12:875][488]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fcee301240, Size=88, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.11-10.05.13:174][488]LogHotReload: Re-instancing BRInteractionWidget after hot-reload.
+[2023.04.11-10.05.13:303][488]LogContentBrowser: Native class hierarchy updated for 'BattleRoyal' in 0.0009 seconds. Added 6 classes and 3 folders.
+[2023.04.11-10.05.13:306][488]Display: HotReload successful (4 functions remapped  2 scriptstructs remapped)
+[2023.04.11-10.05.13:343][488]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fcee302020, Size=88
+[2023.04.11-10.05.13:590][488]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2459 classes and 563 folders.
+[2023.04.11-10.05.13:597][488]Display: HotReload took  0.8s.
+[2023.04.11-10.05.19:495][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd1e77c888, Size=4, Default__SKEL_WidgetBP_Interaction_C Function /Game/Characters/HUD/WidgetBP_Interaction.SKEL_WidgetBP_Interaction_C:ExecuteUbergraph_WidgetBP_Interaction
+[2023.04.11-10.06.03:070][388]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.045
+[2023.04.11-10.06.03:072][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/HUD/WidgetBP_Interaction] ([1] browsable assets)...
+[2023.04.11-10.06.03:072][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/HUD/WidgetBP_Interaction]
+[2023.04.11-10.06.03:085][388]LogSavePackage: Save=9.59ms
+[2023.04.11-10.06.03:085][388]LogSavePackage: Moving '../../../../../../UE_Project/BattleRoyal/Saved/WidgetBP_Interaction_Auto1FA45DA76414318B38899709F03331462.tmp' to '../../../../../../UE_Project/BattleRoyal/Saved/Autosaves/Game/Characters/HUD/WidgetBP_Interaction_Auto1.uasset'
+[2023.04.11-10.06.03:086][388]LogSavePackage: Display: Finished SavePackage ../../../../../../UE_Project/BattleRoyal/Saved/Autosaves/Game/Characters/HUD/WidgetBP_Interaction_Auto1.uasset
+[2023.04.11-10.06.03:086][388]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.04.11-10.06.49:663][528]LogHotReload: New module detected: UE4Editor-BattleRoyal-7755.dll
+[2023.04.11-10.06.50:675][532]LogHotReload: Starting Hot-Reload from IDE
+[2023.04.11-10.06.50:744][532]LogClass: Could not find existing class BRInteractionWidget in package /Script/BattleRoyal for HotReload, assuming new class
+[2023.04.11-10.06.50:749][532]LogClass: EItemEquipType HotReload.
+[2023.04.11-10.06.50:749][532]LogClass: ITemTableRow HotReload.
+[2023.04.11-10.06.50:749][532]LogClass: HitScanTrace HotReload.
+[2023.04.11-10.06.50:753][532]LogHotReload: Re-instancing BRCharacter after hot-reload.
+[2023.04.11-10.06.50:767][532]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fcee301240, Size=88
+[2023.04.11-10.06.50:767][532]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd1fddb880, Size=88, BP_Player_C_5 Function /Engine/Transient.REINST_BP_Player_C_62:ExecuteUbergraph_BP_Player
+[2023.04.11-10.06.50:771][532]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd1fdda440, Size=88, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.11-10.06.51:079][532]LogHotReload: Re-instancing BRInteractionWidget after hot-reload.
+[2023.04.11-10.06.51:082][532]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd1e77c888, Size=4
+[2023.04.11-10.06.51:082][532]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fcf14f87a8, Size=4, Default__SKEL_WidgetBP_Interaction_C Function /Engine/Transient.REINST_SKEL_WidgetBP_Interaction_C_10:ExecuteUbergraph_WidgetBP_Interaction
+[2023.04.11-10.06.51:087][532]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fcf14f87e8, Size=4, Default__WidgetBP_Interaction_C Function /Game/Characters/HUD/WidgetBP_Interaction.WidgetBP_Interaction_C:ExecuteUbergraph_WidgetBP_Interaction
+[2023.04.11-10.06.51:187][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/HUD/WidgetBP_Interaction" FILE="../../../../../../UE_Project/BattleRoyal/Content/Characters/HUD/WidgetBP_Interaction.uasset" SILENT=true
+[2023.04.11-10.06.51:201][532]LogSavePackage: Save=10.07ms
+[2023.04.11-10.06.51:201][532]LogSavePackage: Moving '../../../../../../UE_Project/BattleRoyal/Saved/WidgetBP_Interaction1FF162D74BA14A2775A1B58940EC8212.tmp' to '../../../../../../UE_Project/BattleRoyal/Content/Characters/HUD/WidgetBP_Interaction.uasset'
+[2023.04.11-10.06.51:203][532]LogSavePackage: Display: Finished SavePackage ../../../../../../UE_Project/BattleRoyal/Content/Characters/HUD/WidgetBP_Interaction.uasset
+[2023.04.11-10.06.51:303][532]LogContentBrowser: Native class hierarchy updated for 'BattleRoyal' in 0.0009 seconds. Added 6 classes and 3 folders.
+[2023.04.11-10.06.51:306][532]Display: HotReload successful (4 functions remapped  2 scriptstructs remapped)
+[2023.04.11-10.06.51:342][532]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd1fddb880, Size=88
+[2023.04.11-10.06.51:343][532]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fcf14f87a8, Size=4
+[2023.04.11-10.06.51:588][532]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2459 classes and 563 folders.
+[2023.04.11-10.06.51:595][532]Display: HotReload took  0.9s.
+[2023.04.11-10.08.09:124][146]LogSlate: Took 0.001889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.04.11-10.11.03:450][628]LogHotReload: New module detected: UE4Editor-BattleRoyal-1088.dll
+[2023.04.11-10.11.04:128][631]LogHotReload: Starting Hot-Reload from IDE
+[2023.04.11-10.11.04:220][631]LogClass: Could not find existing class BRInteractionWidget in package /Script/BattleRoyal for HotReload, assuming new class
+[2023.04.11-10.11.04:225][631]LogClass: EItemEquipType HotReload.
+[2023.04.11-10.11.04:226][631]LogClass: ITemTableRow HotReload.
+[2023.04.11-10.11.04:226][631]LogClass: HitScanTrace HotReload.
+[2023.04.11-10.11.04:230][631]LogHotReload: Re-instancing BRCharacter after hot-reload.
+[2023.04.11-10.11.04:244][631]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fd1fdda440, Size=88
+[2023.04.11-10.11.04:244][631]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd083a22c0, Size=88, BP_Player_C_6 Function /Engine/Transient.REINST_BP_Player_C_69:ExecuteUbergraph_BP_Player
+[2023.04.11-10.11.04:247][631]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd083a2aa0, Size=88, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.11-10.11.04:596][631]LogHotReload: Re-instancing BRInteractionWidget after hot-reload.
+[2023.04.11-10.11.04:602][631]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fcf14f87e8, Size=4
+[2023.04.11-10.11.04:602][631]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd0abb9270, Size=4, WidgetBP_Interaction_C_28 Function /Engine/Transient.REINST_WidgetBP_Interaction_C_13:ExecuteUbergraph_WidgetBP_Interaction
+[2023.04.11-10.11.04:604][631]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fd0abb91e8, Size=4, Default__WidgetBP_Interaction_C Function /Game/Characters/HUD/WidgetBP_Interaction.WidgetBP_Interaction_C:ExecuteUbergraph_WidgetBP_Interaction
+[2023.04.11-10.11.04:727][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/HUD/WidgetBP_Interaction" FILE="../../../../../../UE_Project/BattleRoyal/Content/Characters/HUD/WidgetBP_Interaction.uasset" SILENT=true
+[2023.04.11-10.11.04:744][631]LogSavePackage: Save=13.02ms
+[2023.04.11-10.11.04:745][631]LogSavePackage: Moving '../../../../../../UE_Project/BattleRoyal/Saved/WidgetBP_Interaction20E99B8D49F2D9FEA547628D031E1F53.tmp' to '../../../../../../UE_Project/BattleRoyal/Content/Characters/HUD/WidgetBP_Interaction.uasset'
+[2023.04.11-10.11.04:746][631]LogSavePackage: Display: Finished SavePackage ../../../../../../UE_Project/BattleRoyal/Content/Characters/HUD/WidgetBP_Interaction.uasset

@@ -1,0 +1,961 @@
+﻿Log file open, 05/26/23 19:39:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BattleRoyal
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1212715361) SRandInit(1212715361).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.740793
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.141s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../UE_Project/BattleRoyal/Binaries/Win64/UE4Editor-BattleRoyal-4992.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-A4CSULD (175.197.228.104:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Tools/EpicGames/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2023.05.26-10.39.20:361][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.26-10.39.20:361][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.05.26-10.39.20:395][  0]LogInit: Computer: DESKTOP-A4CSULD
+[2023.05.26-10.39.20:395][  0]LogInit: User: 82104
+[2023.05.26-10.39.20:395][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.05.26-10.39.20:395][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.26-10.39.20:395][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.05.26-10.39.20:395][  0]LogMemory: Platform Memory Stats for Windows
+[2023.05.26-10.39.20:395][  0]LogMemory: Process Physical Memory: 278.82 MB used, 278.82 MB peak
+[2023.05.26-10.39.20:395][  0]LogMemory: Process Virtual Memory: 268.32 MB used, 268.32 MB peak
+[2023.05.26-10.39.20:395][  0]LogMemory: Physical Memory: 9354.94 MB used,  23361.18 MB free, 32716.11 MB total
+[2023.05.26-10.39.20:395][  0]LogMemory: Virtual Memory: 4809.56 MB used,  23361.18 MB free, 134217728.00 MB total
+[2023.05.26-10.39.20:428][  0]LogInit: Using OS detected language (ko-KR).
+[2023.05.26-10.39.20:428][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.05.26-10.39.20:453][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2023.05.26-10.39.20:820][  0]LogStreaming: Display: Took  0.392s to EndInitTextLocalization.
+[2023.05.26-10.39.20:820][  0]LogInit: Setting process to per monitor DPI aware
+[2023.05.26-10.39.20:861][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.26-10.39.20:861][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.26-10.39.21:077][  0]LogD3D11RHI: D3D11 adapters:
+[2023.05.26-10.39.21:708][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2023.05.26-10.39.21:708][  0]LogD3D11RHI:       5979/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.05.26-10.39.21:710][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.05.26-10.39.21:710][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.05.26-10.39.21:710][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.05.26-10.39.21:717][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.05.26-10.39.21:717][  0]LogD3D11RHI:     GPU DeviceId: 0x2182 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.26-10.39.21:717][  0]LogWindows: EnumDisplayDevices:
+[2023.05.26-10.39.21:717][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2023.05.26-10.39.21:717][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:1)
+[2023.05.26-10.39.21:718][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.05.26-10.39.21:718][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.05.26-10.39.21:718][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2023.05.26-10.39.21:718][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2023.05.26-10.39.21:718][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2023.05.26-10.39.21:718][  0]LogD3D11RHI:      Driver Date: Unknown
+[2023.05.26-10.39.21:718][  0]LogRHI: Texture pool is 4185 MB (70% of 5979 MB)
+[2023.05.26-10.39.21:815][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2023.05.26-10.39.21:815][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2023.05.26-10.39.21:815][  0]LogD3D11RHI: Async texture creation enabled
+[2023.05.26-10.39.21:836][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.05.26-10.39.21:837][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2023.05.26-10.39.21:838][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../../../UE_Project/BattleRoyal/Intermediate/Shaders/WorkingDirectory/5760/).
+[2023.05.26-10.39.21:838][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wonjeong/AppData/Local/Temp/UnrealShaderWorkingDir/18BCD35143E0789CD5DABAADC5E7175C/'.
+[2023.05.26-10.39.22:095][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2023.05.26-10.39.22:109][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2023.05.26-10.39.22:124][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2023.05.26-10.39.22:138][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2023.05.26-10.39.22:194][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2023.05.26-10.39.22:209][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2023.05.26-10.39.22:223][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2023.05.26-10.39.22:237][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2023.05.26-10.39.22:244][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2023.05.26-10.39.22:256][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2023.05.26-10.39.22:269][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2023.05.26-10.39.22:282][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2023.05.26-10.39.22:294][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2023.05.26-10.39.22:307][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2023.05.26-10.39.22:320][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2023.05.26-10.39.22:346][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2023.05.26-10.39.22:346][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2023.05.26-10.39.22:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.05.26-10.39.22:360][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2023.05.26-10.39.22:397][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2023.05.26-10.39.22:409][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2023.05.26-10.39.22:422][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2023.05.26-10.39.22:434][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2023.05.26-10.39.22:447][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2023.05.26-10.39.22:460][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2023.05.26-10.39.22:460][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.05.26-10.39.22:557][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.26-10.39.22:557][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.05.26-10.39.22:557][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.05.26-10.39.23:194][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.05.26-10.39.23:256][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Wonjeong/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2023.05.26-10.39.23:256][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wonjeong/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2023.05.26-10.39.23:257][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UE_Project/BattleRoyal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.26-10.39.23:257][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.05.26-10.39.23:257][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UE_Project/BattleRoyal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.26-10.39.23:257][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.05.26-10.39.23:273][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.05.26-10.39.23:285][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wonjeong/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.26-10.39.23:285][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.26-10.39.23:285][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.05.26-10.39.23:296][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.05.26-10.39.23:296][  0]LogSlate: Using Freetype 2.6.0
+[2023.05.26-10.39.23:297][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.26-10.39.23:297][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.26-10.39.23:411][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2023.05.26-10.39.23:713][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.26-10.39.23:829][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2023.05.26-10.39.23:831][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2023.05.26-10.39.23:831][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.26-10.39.23:831][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2023.05.26-10.39.23:831][  0]LogMeshReduction: No automatic mesh merging module available
+[2023.05.26-10.39.23:831][  0]LogMeshMerging: No automatic mesh merging module available
+[2023.05.26-10.39.23:863][  0]LogNetVersion: BattleRoyal , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3060849375)
+[2023.05.26-10.39.24:249][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.075774 seconds
+[2023.05.26-10.39.24:255][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2023.05.26-10.39.24:255][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2023.05.26-10.39.24:255][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.26-10.39.25:713][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.26-10.39.25:740][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.26-10.39.26:001][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.906400ms] /Game/Characters/Female/Parts/SK_Female_Body_Head.SK_Female_Body_Head
+[2023.05.26-10.39.26:010][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc06bbbc10, Size=16, Default__BP_Parachute_C Function /Game/Characters/BP_Parachute.BP_Parachute_C:ExecuteUbergraph_BP_Parachute
+[2023.05.26-10.39.26:012][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc06bbbc10, Size=16
+[2023.05.26-10.39.26:012][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc06bbbc10, Size=16, Default__BP_Parachute_C Function /Engine/Transient.REINST_BP_Parachute_C_1:ExecuteUbergraph_BP_Parachute
+[2023.05.26-10.39.26:014][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc06bbbc00, Size=16, Default__BP_Parachute_C Function /Game/Characters/BP_Parachute.BP_Parachute_C:ExecuteUbergraph_BP_Parachute
+[2023.05.26-10.39.26:177][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc08418ac0, Size=4, Default__WidgetBP_ClientMain_C Function /Game/GameModes/Battle/UMG/WidgetBP_ClientMain.WidgetBP_ClientMain_C:ExecuteUbergraph_WidgetBP_ClientMain
+[2023.05.26-10.39.26:181][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc08418ac0, Size=4
+[2023.05.26-10.39.26:181][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc08418ac0, Size=4, Default__WidgetBP_ClientMain_C Function /Engine/Transient.REINST_WidgetBP_ClientMain_C_2:ExecuteUbergraph_WidgetBP_ClientMain
+[2023.05.26-10.39.26:182][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc08418920, Size=4, Default__WidgetBP_ClientMain_C Function /Game/GameModes/Battle/UMG/WidgetBP_ClientMain.WidgetBP_ClientMain_C:ExecuteUbergraph_WidgetBP_ClientMain
+[2023.05.26-10.39.26:228][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc08524f00, Size=1296, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.05.26-10.39.26:230][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc08521a80, Size=344, Default__AnimBP_Player_C Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player
+[2023.05.26-10.39.26:253][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc084f3ad8, Size=4, Default__WidgetBP_Interaction_C Function /Game/Characters/HUD/WidgetBP_Interaction.WidgetBP_Interaction_C:ExecuteUbergraph_WidgetBP_Interaction
+[2023.05.26-10.39.26:290][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc08521a80, Size=344
+[2023.05.26-10.39.26:290][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc088f8880, Size=344, Default__AnimBP_Player_C Function /Engine/Transient.REINST_AnimBP_Player_C_0:ExecuteUbergraph_AnimBP_Player
+[2023.05.26-10.39.26:291][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc08524f00, Size=1296
+[2023.05.26-10.39.26:291][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc088fe400, Size=1296, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_9:ExecuteUbergraph_BP_Player
+[2023.05.26-10.39.26:291][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc084f3ad8, Size=4
+[2023.05.26-10.39.26:291][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc084f3ad8, Size=4, Default__WidgetBP_Interaction_C Function /Engine/Transient.REINST_WidgetBP_Interaction_C_4:ExecuteUbergraph_WidgetBP_Interaction
+[2023.05.26-10.39.26:322][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc08f44700, Size=344, Default__AnimBP_Player_C Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player
+[2023.05.26-10.39.26:326][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc07c3dd00, Size=1296, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.05.26-10.39.26:328][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc084f1700, Size=4, Default__WidgetBP_Interaction_C Function /Game/Characters/HUD/WidgetBP_Interaction.WidgetBP_Interaction_C:ExecuteUbergraph_WidgetBP_Interaction
+[2023.05.26-10.39.26:366][  0]LogBlueprint: Warning: Node '/Game/Characters/BP_Player.BP_Player:EventGraph.K2Node_Event_7' missing NodeGuid, this can cause deterministic cooking issues please resave package.
+[2023.05.26-10.39.26:367][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.290700ms] /Game/Characters/Female/Parts/SK_Female_Cloth_Helmet_Hair.SK_Female_Cloth_Helmet_Hair
+[2023.05.26-10.39.26:370][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.420900ms] /Game/Characters/Female/Parts/SK_Female_Body_Upper.SK_Female_Body_Upper
+[2023.05.26-10.39.26:370][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.333700ms] /Game/Characters/Female/Parts/SK_Female_Body_Lower.SK_Female_Body_Lower
+[2023.05.26-10.39.26:497][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.05.26-10.39.26:497][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.05.26-10.39.26:512][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.05.26-10.39.26:527][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.05.26-10.39.26:991][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.26-10.39.27:138][  0]LogOcInput: OculusInput pre-init called
+[2023.05.26-10.39.27:232][  0]LogEngine: Initializing Engine...
+[2023.05.26-10.39.27:233][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.26-10.39.27:235][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2023.05.26-10.39.27:235][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2023.05.26-10.39.27:393][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.05.26-10.39.27:415][  0]LogInit: XAudio2 using '24MP76(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.05.26-10.39.27:441][  0]LogInit: FAudioDevice initialized.
+[2023.05.26-10.39.27:526][  0]LogDerivedDataCache: Saved boot cache 0.09s 79MB C:/Users/Wonjeong/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2023.05.26-10.39.27:537][  0]LogInit: Texture streaming: Enabled
+[2023.05.26-10.39.27:554][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.05.26-10.39.27:576][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={6D54882E-4126-4D1B-C116-2782A18FC38A}
+[2023.05.26-10.39.27:589][  0]LogInit: Transaction tracking system initialized
+[2023.05.26-10.39.27:611][  0]BlueprintLog: New page: 에디터 로드
+[2023.05.26-10.39.27:782][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2023.05.26-10.39.27:870][  0]LogConsoleResponse: Display: 
+[2023.05.26-10.39.27:976][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.05.26-10.39.27:976][  0]LogCook: Display: Mobile HDR setting 1
+[2023.05.26-10.39.27:976][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2023.05.26-10.39.27:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2023.05.26-10.39.27:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2023.05.26-10.39.28:295][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.05.26-10.39.28:295][  0]Cmd: MAP LOAD FILE="../../../../../../UE_Project/BattleRoyal/Content/ThirdPersonBP/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.26-10.39.28:296][  0]LightingResults: New page: 라이팅 빌드
+[2023.05.26-10.39.28:298][  0]MapCheck: New page: 맵 체크
+[2023.05.26-10.39.28:298][  0]LightingResults: New page: 라이팅 빌드
+[2023.05.26-10.39.28:307][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc06bbbc10, Size=16
+[2023.05.26-10.39.28:307][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc08418ac0, Size=4
+[2023.05.26-10.39.28:307][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc088fe400, Size=1296
+[2023.05.26-10.39.28:307][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc088f8880, Size=344
+[2023.05.26-10.39.28:307][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc084f3ad8, Size=4
+[2023.05.26-10.39.28:471][  0]LogAIModule: Creating AISystem for world Lobby
+[2023.05.26-10.39.28:481][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.26-10.39.28:489][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.26-10.39.28:542][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 53.336ms.
+[2023.05.26-10.39.28:542][  0]LogFileHelpers: Loading map 'Lobby' took 0.247
+[2023.05.26-10.39.28:676][  0]LogCollectionManager: Loaded 0 collections in 0.001537 seconds
+[2023.05.26-10.39.28:717][  0]LogFileCache: Scanning file cache for directory 'D:/UE_Project/BattleRoyal/Saved/Collections/' took 0.01s
+[2023.05.26-10.39.28:717][  0]LogFileCache: Scanning file cache for directory 'D:/UE_Project/BattleRoyal/Content/Developers/82104/Collections/' took 0.01s
+[2023.05.26-10.39.28:717][  0]LogFileCache: Scanning file cache for directory 'D:/UE_Project/BattleRoyal/Content/Collections/' took 0.01s
+[2023.05.26-10.39.28:717][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2023.05.26-10.39.28:728][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2471 classes and 564 folders.
+[2023.05.26-10.39.28:736][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2023.05.26-10.39.28:783][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2023.05.26-10.39.28:790][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2023.05.26-10.39.28:856][  0]LogSlate: Took 0.000947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.26-10.39.28:865][  0]LogSlate: Took 0.006412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.05.26-10.39.28:871][  0]LogSlate: Took 0.002606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2023.05.26-10.39.28:872][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.05.26-10.39.28:874][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.26-10.39.28:961][  0]LogRenderer: Reallocating scene render targets to support 1932x748 Format 10 NumSamples 1 (Frame:1).
+[2023.05.26-10.39.29:091][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2023.05.26-10.39.29:091][  0]LogLoad: (Engine Initialization) Total time: 12.50 seconds
+[2023.05.26-10.39.29:091][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.26-10.39.29:124][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.26-10.39.29:204][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.26-10.39.29:232][  1]LogAssetRegistry: Asset discovery search completed in 5.8437 seconds
+[2023.05.26-10.39.29:234][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2023.05.26-10.39.29:234][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2023.05.26-10.39.30:170][102]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.26-10.39.49:098][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.05.26-10.39.49:163][891]Candidate modules for hot reload:
+[2023.05.26-10.39.49:163][891]  BattleRoyal
+[2023.05.26-10.39.49:163][891]Launching UnrealBuildTool... [D:/Tools/EpicGames/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe BattleRoyal -ModuleWithSuffix=BattleRoyal,9071 Win64 Development -editorrecompile -canskiplink "D:/UE_Project/BattleRoyal/BattleRoyal.uproject" ]
+[2023.05.26-10.39.49:167][891]Warning: Starting HotReload took  0.0s.
+[2023.05.26-10.39.53:848][442]CompilerResultsLog: New page: 컴파일 - 2023. 5. 27. 오전 4:39:53
+[2023.05.26-10.39.53:848][442]CompilerResultsLog: Creating makefile for hot reloading BattleRoyal (modules to compile have changed)
+[2023.05.26-10.39.53:848][442]CompilerResultsLog: Compiling game modules for hot reload
+[2023.05.26-10.39.53:848][442]CompilerResultsLog: Target is up to date
+[2023.05.26-10.39.53:848][442]CompilerResultsLog: Total build time: 4.51 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2023.05.26-10.39.53:848][442]LogMainFrame: MainFrame: Module compiling took 4.692 seconds
+[2023.05.26-10.39.53:869][442]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2472 classes and 566 folders.
+[2023.05.26-10.39.53:869][442]Display: HotReload took  4.7s.
+[2023.05.26-10.39.55:520][639]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2023.05.26-10.39.55:560][639]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2023.05.26-10.39.55:560][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-10.39.55:560][639]PIE: New page: PIE 세션: Lobby (2023. 5. 27. 오전 4:39:55)
+[2023.05.26-10.39.55:560][639]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby
+[2023.05.26-10.39.55:580][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019946s)
+[2023.05.26-10.39.55:581][639]LogAIModule: Creating AISystem for world Lobby
+[2023.05.26-10.39.55:581][639]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2023.05.26-10.39.55:581][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Lobby.Lobby to /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby (0.021026s)
+[2023.05.26-10.39.55:601][639]LogLoad: Game class is 'BP_TestGM_C'
+[2023.05.26-10.39.55:603][639]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 0) at 2023.05.26-19.39.55
+[2023.05.26-10.39.55:603][639]LogWorld: Bringing up level for play took: 0.001058
+[2023.05.26-10.39.55:603][639]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.39.55:603][639]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2023.05.26-10.39.55:603][639]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.39.55:603][639]LogInit: WinSock: Socket queue 131072 / 131072
+[2023.05.26-10.39.55:604][639]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.39.55:604][639]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2023.05.26-10.39.55:604][639]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby 에 대한 에디터에서 플레이 시작 시간: 0.601
+[2023.05.26-10.39.55:608][639]PIE: New page: PIE 세션: Lobby (2023. 5. 27. 오전 4:39:55)
+[2023.05.26-10.39.55:620][639]LogInit: XAudio2 using '24MP76(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.05.26-10.39.55:628][639]LogInit: FAudioDevice initialized.
+[2023.05.26-10.39.55:686][639]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.05.26-10.39.55:687][639]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.39.55:687][639]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2023.05.26-10.39.55:687][639]LogTemp: Display: ParseSettings for PendingNetDriver
+[2023.05.26-10.39.55:687][639]LogInit: WinSock: Socket queue 32768 / 32768
+[2023.05.26-10.39.55:687][639]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.39.55:687][639]LogNet: Game client on port 17777, rate 10000
+[2023.05.26-10.39.55:691][639]PIE: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.687
+[2023.05.26-10.39.55:695][639]PIE: New page: PIE 세션: Lobby (2023. 5. 27. 오전 4:39:55)
+[2023.05.26-10.39.55:706][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.05.26-10.39.55:753][639]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.05.26-10.39.55:753][639]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.39.55:753][639]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2023.05.26-10.39.55:753][639]LogTemp: Display: ParseSettings for PendingNetDriver
+[2023.05.26-10.39.55:753][639]LogInit: WinSock: Socket queue 32768 / 32768
+[2023.05.26-10.39.55:754][639]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.39.55:754][639]LogNet: Game client on port 17777, rate 10000
+[2023.05.26-10.39.55:757][639]PIE: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.754
+[2023.05.26-10.39.55:770][639]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2023.05.26-10.39.55:770][639]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49223
+[2023.05.26-10.39.55:770][639]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 087145073200227195038181146199114184234030090111215178031010
+[2023.05.26-10.39.55:770][639]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49224
+[2023.05.26-10.39.55:770][639]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 014053094058160006041104005134036168115057191139127097081196
+[2023.05.26-10.39.55:789][639]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 087145073200227195038181146199114184234030090111215178031010
+[2023.05.26-10.39.55:789][639]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 014053094058160006041104005134036168115057191139127097081196
+[2023.05.26-10.39.55:874][640]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49223
+[2023.05.26-10.39.55:874][640]LogHandshake: SendChallengeAck. InCookie: 087145073200227195038181146199114184234030090111215178031010
+[2023.05.26-10.39.55:874][640]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49223
+[2023.05.26-10.39.55:874][640]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.39.55:874][640]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 05/26/23 19:39:55, [UNetConnection] RemoteAddr: 127.0.0.1:49223, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.39.55:874][640]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49223, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.39.55:874][640]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49224
+[2023.05.26-10.39.55:874][640]LogHandshake: SendChallengeAck. InCookie: 014053094058160006041104005134036168115057191139127097081196
+[2023.05.26-10.39.55:874][640]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49224
+[2023.05.26-10.39.55:874][640]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.39.55:874][640]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 05/26/23 19:39:55, [UNetConnection] RemoteAddr: 127.0.0.1:49224, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.39.55:874][640]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49224, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.39.55:875][640]LogNetVersion: BattleRoyal 1.0.0.0, NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2679550379)
+[2023.05.26-10.39.55:875][640]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.39.55:875][640]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.39.55:889][641]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby: Accepted
+[2023.05.26-10.39.55:889][641]LogNet: Remote platform little endian=1
+[2023.05.26-10.39.55:889][641]LogNet: This platform little endian=1
+[2023.05.26-10.39.55:890][641]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby: Accepted
+[2023.05.26-10.39.55:890][641]LogNet: Remote platform little endian=1
+[2023.05.26-10.39.55:890][641]LogNet: This platform little endian=1
+[2023.05.26-10.39.55:897][642]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2023.05.26-10.39.55:897][642]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2023.05.26-10.39.55:898][642]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby, Game: /Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C)
+[2023.05.26-10.39.55:899][642]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby?game=/Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C
+[2023.05.26-10.39.55:919][642]LogAIModule: Creating AISystem for world Lobby
+[2023.05.26-10.39.55:919][642]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.39.55:920][642]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_Lobby.Lobby up for play (max tick rate 0) at 2023.05.26-19.39.55
+[2023.05.26-10.39.55:921][642]LogWorld: Bringing up level for play took: 0.000840
+[2023.05.26-10.39.55:921][642]LogLoad: Took 0.021867 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby)
+[2023.05.26-10.39.55:921][642]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby, Game: /Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C)
+[2023.05.26-10.39.55:930][642]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby?game=/Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C
+[2023.05.26-10.39.55:949][642]LogAIModule: Creating AISystem for world Lobby
+[2023.05.26-10.39.55:950][642]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.39.55:951][642]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_3_Lobby.Lobby up for play (max tick rate 0) at 2023.05.26-19.39.55
+[2023.05.26-10.39.55:951][642]LogWorld: Bringing up level for play took: 0.000852
+[2023.05.26-10.39.55:951][642]LogLoad: Took 0.021448 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby)
+[2023.05.26-10.39.55:987][643]LogNet: Client netspeed is 10000
+[2023.05.26-10.39.55:987][643]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2023.05.26-10.39.55:991][643]LogNet: Join succeeded: 256
+[2023.05.26-10.39.55:991][643]LogNet: Client netspeed is 10000
+[2023.05.26-10.39.55:991][643]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2023.05.26-10.39.55:993][643]LogNet: Join succeeded: 257
+[2023.05.26-10.39.57:292][734]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.05.26-10.40.00:757][881]LogSlate: Took 0.002096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.05.26-10.40.11:250][806]LogTemp: Take Damage
+[2023.05.26-10.40.11:250][806]LogTemp: Take Damage
+[2023.05.26-10.40.11:250][806]LogTemp: Take Damage
+[2023.05.26-10.40.11:250][806]LogTemp: Take Damage
+[2023.05.26-10.40.11:250][806]LogTemp: Take Damage
+[2023.05.26-10.40.11:251][806]LogTemp: Take Damage
+[2023.05.26-10.40.11:251][806]LogTemp: Take Damage
+[2023.05.26-10.40.11:251][806]LogTemp: Take Damage
+[2023.05.26-10.40.11:251][806]LogTemp: Take Damage
+[2023.05.26-10.40.11:251][806]LogTemp: Take Damage
+[2023.05.26-10.40.21:079][754]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2023.05.26-10.40.21:121][754]LogSlate: Window 'BattleRoyal 게임 미리보기 Client 2 (64-비트/PCD3D_SM5)' being destroyed
+[2023.05.26-10.40.21:189][754]LogSlate: Window 'BattleRoyal 게임 미리보기 Client 1 (64-비트/PCD3D_SM5)' being destroyed
+[2023.05.26-10.40.21:222][754]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2023.05.26-10.40.21:230][754]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49224, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.40.21:230][754]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49224, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2023.05.26-10.40.21
+[2023.05.26-10.40.21:230][754]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49224, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.40.21:230][754]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49223, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.40.21:230][754]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49223, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2023.05.26-10.40.21
+[2023.05.26-10.40.21:230][754]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49223, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.40.21:230][754]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.40.21:230][754]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2023.05.26-10.40.21
+[2023.05.26-10.40.21:230][754]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.40.21:230][754]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.40.21:230][754]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2023.05.26-10.40.21
+[2023.05.26-10.40.21:230][754]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.40.21:235][754]LogExit: GameNetDriver None shut down
+[2023.05.26-10.40.21:236][754]LogExit: GameNetDriver None shut down
+[2023.05.26-10.40.21:236][754]LogExit: GameNetDriver None shut down
+[2023.05.26-10.52.06:822][972]LogHotReload: New module detected: UE4Editor-BattleRoyal-309.dll
+[2023.05.26-10.52.07:841][976]LogHotReload: Starting Hot-Reload from IDE
+[2023.05.26-10.52.07:901][976]LogClass: Could not find existing class BRWeapon_Mossberg in package /Script/BattleRoyal for HotReload, assuming new class
+[2023.05.26-10.52.07:901][976]LogClass: Function OnRep_HitScanTraces_Mossberg is new.
+[2023.05.26-10.52.07:903][976]LogClass: EPlayingState HotReload.
+[2023.05.26-10.52.07:903][976]LogClass: EItemEquipType HotReload.
+[2023.05.26-10.52.07:903][976]LogClass: ElectricFieldRow HotReload.
+[2023.05.26-10.52.07:903][976]LogClass: ITemTableRow HotReload.
+[2023.05.26-10.52.07:903][976]LogClass: HitScanTrace HotReload.
+[2023.05.26-10.52.07:910][976]LogHotReload: Re-instancing BRCharacter after hot-reload.
+[2023.05.26-10.52.08:000][976]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc08f44700, Size=344
+[2023.05.26-10.52.08:000][976]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8bef5000, Size=344, Default__AnimBP_Player_C Function /Engine/Transient.REINST_AnimBP_Player_C_2:ExecuteUbergraph_AnimBP_Player
+[2023.05.26-10.52.08:001][976]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc07c3dd00, Size=1296
+[2023.05.26-10.52.08:001][976]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc33549600, Size=1296, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_24:ExecuteUbergraph_BP_Player
+[2023.05.26-10.52.08:031][976]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc32e72800, Size=344, Default__AnimBP_Player_C Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player
+[2023.05.26-10.52.08:035][976]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc6f608100, Size=1296, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.05.26-10.52.08:099][976]LogHotReload: Re-instancing BRWeapon_Mossberg after hot-reload.
+[2023.05.26-10.52.08:267][976]LogContentBrowser: Native class hierarchy updated for 'BattleRoyal' in 0.0014 seconds. Added 19 classes and 6 folders.
+[2023.05.26-10.52.08:269][976]Display: HotReload successful (39 functions remapped  3 scriptstructs remapped)
+[2023.05.26-10.52.08:449][976]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8bef5000, Size=344
+[2023.05.26-10.52.08:449][976]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc33549600, Size=1296
+[2023.05.26-10.52.08:465][976]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2472 classes and 566 folders.
+[2023.05.26-10.52.08:472][976]Display: HotReload took  0.6s.
+[2023.05.26-10.52.17:425][ 74]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.05.26-10.52.17:470][ 74]LogSlate: Took 0.002208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2023.05.26-10.52.18:627][209]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2023.05.26-10.52.18:667][209]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2023.05.26-10.52.18:668][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-10.52.18:668][209]PIE: New page: PIE 세션: Lobby (2023. 5. 27. 오전 4:52:18)
+[2023.05.26-10.52.18:669][209]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby
+[2023.05.26-10.52.18:680][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011727s)
+[2023.05.26-10.52.18:681][209]LogAIModule: Creating AISystem for world Lobby
+[2023.05.26-10.52.18:682][209]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2023.05.26-10.52.18:682][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Lobby.Lobby to /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby (0.013385s)
+[2023.05.26-10.52.18:700][209]LogLoad: Game class is 'BP_TestGM_C'
+[2023.05.26-10.52.18:701][209]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 0) at 2023.05.26-19.52.18
+[2023.05.26-10.52.18:703][209]LogWorld: Bringing up level for play took: 0.001232
+[2023.05.26-10.52.18:703][209]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.52.18:703][209]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2023.05.26-10.52.18:703][209]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.52.18:703][209]LogInit: WinSock: Socket queue 131072 / 131072
+[2023.05.26-10.52.18:703][209]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.52.18:703][209]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 17777
+[2023.05.26-10.52.18:703][209]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby 에 대한 에디터에서 플레이 시작 시간: -0.3
+[2023.05.26-10.52.18:708][209]PIE: New page: PIE 세션: Lobby (2023. 5. 27. 오전 4:52:18)
+[2023.05.26-10.52.18:720][209]LogInit: XAudio2 using '24MP76(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.05.26-10.52.18:729][209]LogInit: FAudioDevice initialized.
+[2023.05.26-10.52.18:781][209]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.05.26-10.52.18:781][209]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.52.18:781][209]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2023.05.26-10.52.18:781][209]LogTemp: Display: ParseSettings for PendingNetDriver
+[2023.05.26-10.52.18:781][209]LogInit: WinSock: Socket queue 32768 / 32768
+[2023.05.26-10.52.18:782][209]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.52.18:782][209]LogNet: Game client on port 17777, rate 10000
+[2023.05.26-10.52.18:786][209]PIE: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.218
+[2023.05.26-10.52.18:790][209]PIE: New page: PIE 세션: Lobby (2023. 5. 27. 오전 4:52:18)
+[2023.05.26-10.52.18:800][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.05.26-10.52.18:844][209]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.05.26-10.52.18:845][209]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.52.18:845][209]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2023.05.26-10.52.18:845][209]LogTemp: Display: ParseSettings for PendingNetDriver
+[2023.05.26-10.52.18:845][209]LogInit: WinSock: Socket queue 32768 / 32768
+[2023.05.26-10.52.18:846][209]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.52.18:846][209]LogNet: Game client on port 17777, rate 10000
+[2023.05.26-10.52.18:849][209]PIE: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.155
+[2023.05.26-10.52.18:861][209]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2023.05.26-10.52.18:861][209]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51149
+[2023.05.26-10.52.18:861][209]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 196187212238230157047147179217169008171074139173146081042034
+[2023.05.26-10.52.18:862][209]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51150
+[2023.05.26-10.52.18:862][209]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 062071125052035057060224098255120126041094039207216200147096
+[2023.05.26-10.52.18:862][209]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 196187212238230157047147179217169008171074139173146081042034
+[2023.05.26-10.52.18:863][209]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 062071125052035057060224098255120126041094039207216200147096
+[2023.05.26-10.52.18:956][210]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51149
+[2023.05.26-10.52.18:957][210]LogHandshake: SendChallengeAck. InCookie: 196187212238230157047147179217169008171074139173146081042034
+[2023.05.26-10.52.18:957][210]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51149
+[2023.05.26-10.52.18:957][210]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.52.18:957][210]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 05/26/23 19:52:18, [UNetConnection] RemoteAddr: 127.0.0.1:51149, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.52.18:958][210]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51149, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.52.18:958][210]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51150
+[2023.05.26-10.52.18:958][210]LogHandshake: SendChallengeAck. InCookie: 062071125052035057060224098255120126041094039207216200147096
+[2023.05.26-10.52.18:958][210]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51150
+[2023.05.26-10.52.18:958][210]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.52.18:959][210]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 05/26/23 19:52:18, [UNetConnection] RemoteAddr: 127.0.0.1:51150, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.52.18:959][210]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51150, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.52.18:959][210]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.52.18:960][210]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.52.18:967][211]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby: Accepted
+[2023.05.26-10.52.18:967][211]LogNet: Remote platform little endian=1
+[2023.05.26-10.52.18:967][211]LogNet: This platform little endian=1
+[2023.05.26-10.52.18:967][211]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby: Accepted
+[2023.05.26-10.52.18:968][211]LogNet: Remote platform little endian=1
+[2023.05.26-10.52.18:968][211]LogNet: This platform little endian=1
+[2023.05.26-10.52.18:975][212]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2023.05.26-10.52.18:975][212]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2023.05.26-10.52.18:976][212]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby, Game: /Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C)
+[2023.05.26-10.52.18:976][212]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby?game=/Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C
+[2023.05.26-10.52.18:994][212]LogAIModule: Creating AISystem for world Lobby
+[2023.05.26-10.52.18:995][212]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.52.18:996][212]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_Lobby.Lobby up for play (max tick rate 0) at 2023.05.26-19.52.18
+[2023.05.26-10.52.18:996][212]LogWorld: Bringing up level for play took: 0.000947
+[2023.05.26-10.52.18:997][212]LogLoad: Took 0.020596 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby)
+[2023.05.26-10.52.18:997][212]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby, Game: /Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C)
+[2023.05.26-10.52.19:005][212]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby?game=/Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C
+[2023.05.26-10.52.19:024][212]LogAIModule: Creating AISystem for world Lobby
+[2023.05.26-10.52.19:024][212]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.52.19:025][212]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_3_Lobby.Lobby up for play (max tick rate 0) at 2023.05.26-19.52.19
+[2023.05.26-10.52.19:025][212]LogWorld: Bringing up level for play took: 0.000885
+[2023.05.26-10.52.19:026][212]LogLoad: Took 0.020849 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby)
+[2023.05.26-10.52.19:048][213]LogNet: Client netspeed is 10000
+[2023.05.26-10.52.19:048][213]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2023.05.26-10.52.19:051][213]LogNet: Join succeeded: 258
+[2023.05.26-10.52.19:051][213]LogNet: Client netspeed is 10000
+[2023.05.26-10.52.19:051][213]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2023.05.26-10.52.19:053][213]LogNet: Join succeeded: 259
+[2023.05.26-10.52.21:362][460]LogTemp: Test
+[2023.05.26-10.52.28:967][323]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2023.05.26-10.52.29:009][323]LogSlate: Window 'BattleRoyal 게임 미리보기 Client 2 (64-비트/PCD3D_SM5)' being destroyed
+[2023.05.26-10.52.29:077][323]LogSlate: Window 'BattleRoyal 게임 미리보기 Client 1 (64-비트/PCD3D_SM5)' being destroyed
+[2023.05.26-10.52.29:109][323]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2023.05.26-10.52.29:117][323]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51150, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.29:118][323]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51150, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2023.05.26-10.52.29
+[2023.05.26-10.52.29:118][323]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51150, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.29:118][323]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51149, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.29:119][323]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51149, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2023.05.26-10.52.29
+[2023.05.26-10.52.29:119][323]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51149, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.29:119][323]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.29:120][323]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2023.05.26-10.52.29
+[2023.05.26-10.52.29:120][323]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.29:121][323]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.29:121][323]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2023.05.26-10.52.29
+[2023.05.26-10.52.29:121][323]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.29:124][323]LogExit: GameNetDriver None shut down
+[2023.05.26-10.52.29:124][323]LogExit: GameNetDriver None shut down
+[2023.05.26-10.52.29:125][323]LogExit: GameNetDriver None shut down
+[2023.05.26-10.52.38:072][533]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2023.05.26-10.52.38:113][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2023.05.26-10.52.38:114][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-10.52.38:114][533]PIE: New page: PIE 세션: Lobby (2023. 5. 27. 오전 4:52:38)
+[2023.05.26-10.52.38:114][533]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby
+[2023.05.26-10.52.38:125][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010429s)
+[2023.05.26-10.52.38:126][533]LogAIModule: Creating AISystem for world Lobby
+[2023.05.26-10.52.38:126][533]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2023.05.26-10.52.38:126][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Lobby.Lobby to /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby (0.012113s)
+[2023.05.26-10.52.38:134][533]LogLoad: Game class is 'BP_TestGM_C'
+[2023.05.26-10.52.38:140][533]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 0) at 2023.05.26-19.52.38
+[2023.05.26-10.52.38:140][533]LogWorld: Bringing up level for play took: 0.005860
+[2023.05.26-10.52.38:141][533]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.52.38:141][533]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2023.05.26-10.52.38:141][533]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.52.38:141][533]LogInit: WinSock: Socket queue 131072 / 131072
+[2023.05.26-10.52.38:142][533]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.52.38:142][533]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2023.05.26-10.52.38:142][533]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby 에 대한 에디터에서 플레이 시작 시간: -0.862
+[2023.05.26-10.52.38:146][533]PIE: New page: PIE 세션: Lobby (2023. 5. 27. 오전 4:52:38)
+[2023.05.26-10.52.38:158][533]LogInit: XAudio2 using '24MP76(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.05.26-10.52.38:167][533]LogInit: FAudioDevice initialized.
+[2023.05.26-10.52.38:219][533]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.05.26-10.52.38:219][533]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.52.38:219][533]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2023.05.26-10.52.38:220][533]LogTemp: Display: ParseSettings for PendingNetDriver
+[2023.05.26-10.52.38:220][533]LogInit: WinSock: Socket queue 32768 / 32768
+[2023.05.26-10.52.38:220][533]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.52.38:221][533]LogNet: Game client on port 17777, rate 10000
+[2023.05.26-10.52.38:224][533]PIE: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.78
+[2023.05.26-10.52.38:228][533]PIE: New page: PIE 세션: Lobby (2023. 5. 27. 오전 4:52:38)
+[2023.05.26-10.52.38:238][533]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.05.26-10.52.38:282][533]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.05.26-10.52.38:282][533]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.52.38:282][533]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2023.05.26-10.52.38:282][533]LogTemp: Display: ParseSettings for PendingNetDriver
+[2023.05.26-10.52.38:282][533]LogInit: WinSock: Socket queue 32768 / 32768
+[2023.05.26-10.52.38:283][533]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.52.38:283][533]LogNet: Game client on port 17777, rate 10000
+[2023.05.26-10.52.38:286][533]PIE: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.718
+[2023.05.26-10.52.38:298][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2023.05.26-10.52.38:299][533]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65333
+[2023.05.26-10.52.38:299][533]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 244117028023100002162074106071052246184155010185239063082108
+[2023.05.26-10.52.38:299][533]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65334
+[2023.05.26-10.52.38:299][533]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 119089128092094140225221109101104081153025141091149201018193
+[2023.05.26-10.52.38:300][533]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 244117028023100002162074106071052246184155010185239063082108
+[2023.05.26-10.52.38:301][533]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 119089128092094140225221109101104081153025141091149201018193
+[2023.05.26-10.52.38:389][534]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65333
+[2023.05.26-10.52.38:390][534]LogHandshake: SendChallengeAck. InCookie: 244117028023100002162074106071052246184155010185239063082108
+[2023.05.26-10.52.38:390][534]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65333
+[2023.05.26-10.52.38:390][534]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.52.38:390][534]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 05/26/23 19:52:38, [UNetConnection] RemoteAddr: 127.0.0.1:65333, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.52.38:391][534]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65333, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.52.38:391][534]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65334
+[2023.05.26-10.52.38:391][534]LogHandshake: SendChallengeAck. InCookie: 119089128092094140225221109101104081153025141091149201018193
+[2023.05.26-10.52.38:391][534]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65334
+[2023.05.26-10.52.38:392][534]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.52.38:392][534]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 05/26/23 19:52:38, [UNetConnection] RemoteAddr: 127.0.0.1:65334, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.52.38:392][534]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65334, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.52.38:393][534]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.52.38:393][534]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: PendingNetDriver IpNetDriver_8, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.52.38:401][535]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby: Accepted
+[2023.05.26-10.52.38:401][535]LogNet: Remote platform little endian=1
+[2023.05.26-10.52.38:401][535]LogNet: This platform little endian=1
+[2023.05.26-10.52.38:401][535]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby: Accepted
+[2023.05.26-10.52.38:402][535]LogNet: Remote platform little endian=1
+[2023.05.26-10.52.38:402][535]LogNet: This platform little endian=1
+[2023.05.26-10.52.38:409][536]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2023.05.26-10.52.38:410][536]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2023.05.26-10.52.38:410][536]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby, Game: /Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C)
+[2023.05.26-10.52.38:410][536]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby?game=/Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C
+[2023.05.26-10.52.38:428][536]LogAIModule: Creating AISystem for world Lobby
+[2023.05.26-10.52.38:429][536]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.52.38:430][536]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_Lobby.Lobby up for play (max tick rate 0) at 2023.05.26-19.52.38
+[2023.05.26-10.52.38:431][536]LogWorld: Bringing up level for play took: 0.001084
+[2023.05.26-10.52.38:431][536]LogLoad: Took 0.020377 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby)
+[2023.05.26-10.52.38:431][536]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby, Game: /Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C)
+[2023.05.26-10.52.38:439][536]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby?game=/Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C
+[2023.05.26-10.52.38:457][536]LogAIModule: Creating AISystem for world Lobby
+[2023.05.26-10.52.38:458][536]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.52.38:459][536]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_3_Lobby.Lobby up for play (max tick rate 0) at 2023.05.26-19.52.38
+[2023.05.26-10.52.38:459][536]LogWorld: Bringing up level for play took: 0.000996
+[2023.05.26-10.52.38:460][536]LogLoad: Took 0.020577 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby)
+[2023.05.26-10.52.38:483][537]LogNet: Client netspeed is 10000
+[2023.05.26-10.52.38:483][537]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2023.05.26-10.52.38:486][537]LogNet: Join succeeded: 260
+[2023.05.26-10.52.38:486][537]LogNet: Client netspeed is 10000
+[2023.05.26-10.52.38:486][537]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2023.05.26-10.52.38:488][537]LogNet: Join succeeded: 261
+[2023.05.26-10.52.39:254][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.05.26-10.52.47:906][876]LogTemp: Test
+[2023.05.26-10.52.48:953][985]LogTemp: Test
+[2023.05.26-10.52.50:292][125]LogTemp: Test
+[2023.05.26-10.52.50:709][167]LogTemp: Test
+[2023.05.26-10.52.51:082][203]LogTemp: Test
+[2023.05.26-10.52.51:400][233]LogTemp: Test
+[2023.05.26-10.52.51:725][263]LogTemp: Test
+[2023.05.26-10.52.52:030][291]LogTemp: Test
+[2023.05.26-10.52.52:344][319]LogTemp: Test
+[2023.05.26-10.52.52:651][346]LogTemp: Test
+[2023.05.26-10.52.54:455][529]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2023.05.26-10.52.54:498][529]LogSlate: Window 'BattleRoyal 게임 미리보기 Client 2 (64-비트/PCD3D_SM5)' being destroyed
+[2023.05.26-10.52.54:563][529]LogSlate: Window 'BattleRoyal 게임 미리보기 Client 1 (64-비트/PCD3D_SM5)' being destroyed
+[2023.05.26-10.52.54:597][529]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2023.05.26-10.52.54:607][529]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65334, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.54:607][529]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65334, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2023.05.26-10.52.54
+[2023.05.26-10.52.54:608][529]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65334, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.54:608][529]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65333, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.54:608][529]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65333, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2023.05.26-10.52.54
+[2023.05.26-10.52.54:609][529]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65333, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.54:609][529]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.54:610][529]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2023.05.26-10.52.54
+[2023.05.26-10.52.54:610][529]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.54:611][529]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.54:611][529]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID, Channels: 2, Time: 2023.05.26-10.52.54
+[2023.05.26-10.52.54:611][529]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2023.05.26-10.52.54:615][529]LogExit: GameNetDriver None shut down
+[2023.05.26-10.52.54:615][529]LogExit: GameNetDriver None shut down
+[2023.05.26-10.52.54:616][529]LogExit: GameNetDriver None shut down
+[2023.05.26-10.58.51:868][643]LogHotReload: New module detected: UE4Editor-BattleRoyal-792.dll
+[2023.05.26-10.58.52:547][646]LogHotReload: Starting Hot-Reload from IDE
+[2023.05.26-10.58.52:606][646]LogClass: EPlayingState HotReload.
+[2023.05.26-10.58.52:606][646]LogClass: EItemEquipType HotReload.
+[2023.05.26-10.58.52:606][646]LogClass: ElectricFieldRow HotReload.
+[2023.05.26-10.58.52:606][646]LogClass: ITemTableRow HotReload.
+[2023.05.26-10.58.52:606][646]LogClass: HitScanTrace HotReload.
+[2023.05.26-10.58.52:612][646]LogHotReload: Re-instancing BRCharacter after hot-reload.
+[2023.05.26-10.58.52:702][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc32e72800, Size=344
+[2023.05.26-10.58.52:702][646]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc08fcdf00, Size=344, Default__AnimBP_Player_C Function /Engine/Transient.REINST_AnimBP_Player_C_4:ExecuteUbergraph_AnimBP_Player
+[2023.05.26-10.58.52:703][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc6f608100, Size=1296
+[2023.05.26-10.58.52:703][646]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8c2d8800, Size=1296, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_34:ExecuteUbergraph_BP_Player
+[2023.05.26-10.58.52:734][646]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc328adf00, Size=344, Default__AnimBP_Player_C Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player
+[2023.05.26-10.58.52:738][646]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8c32f200, Size=1296, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.05.26-10.58.52:808][646]LogContentBrowser: Native class hierarchy updated for 'BattleRoyal' in 0.0014 seconds. Added 19 classes and 6 folders.
+[2023.05.26-10.58.52:810][646]Display: HotReload successful (40 functions remapped  3 scriptstructs remapped)
+[2023.05.26-10.58.52:834][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8c2d8800, Size=1296
+[2023.05.26-10.58.52:834][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc08fcdf00, Size=344
+[2023.05.26-10.58.52:853][646]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2472 classes and 566 folders.
+[2023.05.26-10.58.52:860][646]Display: HotReload took  0.3s.
+[2023.05.26-10.58.55:357][747]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2023.05.26-10.58.55:398][747]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2023.05.26-10.58.55:399][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-10.58.55:399][747]PIE: New page: PIE 세션: Lobby (2023. 5. 27. 오전 4:58:55)
+[2023.05.26-10.58.55:399][747]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby
+[2023.05.26-10.58.55:410][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010989s)
+[2023.05.26-10.58.55:411][747]LogAIModule: Creating AISystem for world Lobby
+[2023.05.26-10.58.55:412][747]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2023.05.26-10.58.55:412][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Lobby.Lobby to /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby (0.012717s)
+[2023.05.26-10.58.55:421][747]LogLoad: Game class is 'BP_TestGM_C'
+[2023.05.26-10.58.55:427][747]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 0) at 2023.05.26-19.58.55
+[2023.05.26-10.58.55:428][747]LogWorld: Bringing up level for play took: 0.006117
+[2023.05.26-10.58.55:428][747]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.58.55:428][747]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2023.05.26-10.58.55:428][747]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.58.55:429][747]LogInit: WinSock: Socket queue 131072 / 131072
+[2023.05.26-10.58.55:429][747]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.58.55:429][747]LogNet: GameNetDriver IpNetDriver_9 IpNetDriver listening on port 17777
+[2023.05.26-10.58.55:430][747]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby 에 대한 에디터에서 플레이 시작 시간: 0.426
+[2023.05.26-10.58.55:434][747]PIE: New page: PIE 세션: Lobby (2023. 5. 27. 오전 4:58:55)
+[2023.05.26-10.58.55:445][747]LogInit: XAudio2 using '24MP76(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.05.26-10.58.55:454][747]LogInit: FAudioDevice initialized.
+[2023.05.26-10.58.55:507][747]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.05.26-10.58.55:507][747]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.58.55:507][747]LogTemp: Display: ParseSettings for IpNetDriver_10
+[2023.05.26-10.58.55:507][747]LogTemp: Display: ParseSettings for PendingNetDriver
+[2023.05.26-10.58.55:507][747]LogInit: WinSock: Socket queue 32768 / 32768
+[2023.05.26-10.58.55:508][747]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.58.55:508][747]LogNet: Game client on port 17777, rate 10000
+[2023.05.26-10.58.55:512][747]PIE: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.508
+[2023.05.26-10.58.55:516][747]PIE: New page: PIE 세션: Lobby (2023. 5. 27. 오전 4:58:55)
+[2023.05.26-10.58.55:526][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.05.26-10.58.55:577][747]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.05.26-10.58.55:577][747]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.58.55:577][747]LogTemp: Display: ParseSettings for IpNetDriver_11
+[2023.05.26-10.58.55:577][747]LogTemp: Display: ParseSettings for PendingNetDriver
+[2023.05.26-10.58.55:577][747]LogInit: WinSock: Socket queue 32768 / 32768
+[2023.05.26-10.58.55:578][747]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.58.55:578][747]LogNet: Game client on port 17777, rate 10000
+[2023.05.26-10.58.55:581][747]PIE: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.577
+[2023.05.26-10.58.55:593][747]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2023.05.26-10.58.55:594][747]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56871
+[2023.05.26-10.58.55:594][747]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 024046001254073190142202237052090011248090214071065073131015
+[2023.05.26-10.58.55:594][747]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56872
+[2023.05.26-10.58.55:594][747]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 000179076250063058052047223234184142197092215093143229232252
+[2023.05.26-10.58.55:595][747]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 024046001254073190142202237052090011248090214071065073131015
+[2023.05.26-10.58.55:596][747]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 000179076250063058052047223234184142197092215093143229232252
+[2023.05.26-10.58.55:687][748]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56871
+[2023.05.26-10.58.55:687][748]LogHandshake: SendChallengeAck. InCookie: 024046001254073190142202237052090011248090214071065073131015
+[2023.05.26-10.58.55:688][748]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56871
+[2023.05.26-10.58.55:688][748]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.58.55:688][748]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 05/26/23 19:58:55, [UNetConnection] RemoteAddr: 127.0.0.1:56871, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.58.55:688][748]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56871, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.58.55:689][748]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56872
+[2023.05.26-10.58.55:689][748]LogHandshake: SendChallengeAck. InCookie: 000179076250063058052047223234184142197092215093143229232252
+[2023.05.26-10.58.55:689][748]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56872
+[2023.05.26-10.58.55:689][748]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.26-10.58.55:689][748]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 05/26/23 19:58:55, [UNetConnection] RemoteAddr: 127.0.0.1:56872, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.58.55:690][748]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56872, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.58.55:690][748]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: PendingNetDriver IpNetDriver_10, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.58.55:691][748]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_13, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.26-10.58.55:700][749]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby: Accepted
+[2023.05.26-10.58.55:700][749]LogNet: Remote platform little endian=1
+[2023.05.26-10.58.55:700][749]LogNet: This platform little endian=1
+[2023.05.26-10.58.55:700][749]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby.Lobby: Accepted
+[2023.05.26-10.58.55:700][749]LogNet: Remote platform little endian=1
+[2023.05.26-10.58.55:701][749]LogNet: This platform little endian=1
+[2023.05.26-10.58.55:708][750]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2023.05.26-10.58.55:709][750]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2023.05.26-10.58.55:709][750]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby, Game: /Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C)
+[2023.05.26-10.58.55:710][750]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby?game=/Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C
+[2023.05.26-10.58.55:727][750]LogAIModule: Creating AISystem for world Lobby
+[2023.05.26-10.58.55:728][750]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.58.55:729][750]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_Lobby.Lobby up for play (max tick rate 0) at 2023.05.26-19.58.55
+[2023.05.26-10.58.55:729][750]LogWorld: Bringing up level for play took: 0.000940
+[2023.05.26-10.58.55:730][750]LogLoad: Took 0.020040 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby)
+[2023.05.26-10.58.55:730][750]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby, Game: /Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C)
+[2023.05.26-10.58.55:738][750]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby?game=/Game/ThirdPersonBP/Maps/BP_TestGM.BP_TestGM_C
+[2023.05.26-10.58.55:757][750]LogAIModule: Creating AISystem for world Lobby
+[2023.05.26-10.58.55:757][750]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.05.26-10.58.55:758][750]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_3_Lobby.Lobby up for play (max tick rate 0) at 2023.05.26-19.58.55
+[2023.05.26-10.58.55:759][750]LogWorld: Bringing up level for play took: 0.000930
+[2023.05.26-10.58.55:759][750]LogLoad: Took 0.021451 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Lobby)
+[2023.05.26-10.58.55:783][751]LogNet: Client netspeed is 10000
+[2023.05.26-10.58.55:783][751]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2023.05.26-10.58.55:786][751]LogNet: Join succeeded: 262
+[2023.05.26-10.58.55:786][751]LogNet: Client netspeed is 10000
+[2023.05.26-10.58.55:786][751]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2023.05.26-10.58.55:788][751]LogNet: Join succeeded: 263
+[2023.05.26-10.58.57:785][964]LogOutputDevice: Warning: 
+
+Script Stack:
+BRWeapon.ServerFire
+
+[2023.05.26-10.58.57:785][964]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
+[2023.05.26-10.59.04:342][964]LogWindows: Error: === Critical error: ===
+[2023.05.26-10.59.04:342][964]LogWindows: Error: 
+[2023.05.26-10.59.04:342][964]LogWindows: Error: Assertion failed: (Index >= 0) & (Index < ArrayNum) [File:D:\Tools\EpicGames\UE_4.19\Engine\Source\Runtime\Core\Public\Containers/Array.h] [Line: 610] 
+[2023.05.26-10.59.04:342][964]LogWindows: Error: Array index out of bounds: 0 from an array of size 0
+[2023.05.26-10.59.04:342][964]LogWindows: Error: 
+[2023.05.26-10.59.04:342][964]LogWindows: Error: 
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x000000007A2ECF19 KERNELBASE.dll!UnknownFunction []
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000057D97884 UE4Editor-ApplicationCore.dll!FWindowsErrorOutputDevice::Serialize() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowserroroutputdevice.cpp:65]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x000000002EC36D9B UE4Editor-Core.dll!FOutputDevice::LogfImpl() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\private\misc\outputdevice.cpp:70]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x000000002EB71949 UE4Editor-Core.dll!FDebug::AssertFailed() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:419]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x00000000E8C20470 UE4Editor-BattleRoyal-792.dll!ABRWeapon_Mossberg::Fire() [d:\ue_project\battleroyal\source\battleroyal\private\weapons\brweapon_mossberg.cpp:129]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x000000004320E094 UE4Editor-CoreUObject.dll!UFunction::Invoke() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\coreuobject\private\uobject\class.cpp:4551]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x00000000433F9D73 UE4Editor-CoreUObject.dll!UObject::ProcessEvent() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1345]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x00000000294DCCFB UE4Editor-Engine.dll!AActor::ProcessEvent() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\engine\private\actor.cpp:687]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000029ADBE71 UE4Editor-Engine.dll!FObjectReplicator::ReceivedRPC() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\engine\private\datareplication.cpp:859]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000029AD6F72 UE4Editor-Engine.dll!FObjectReplicator::ReceivedBunch() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\engine\private\datareplication.cpp:731]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000029AC992D UE4Editor-Engine.dll!UActorChannel::ProcessBunch() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\engine\private\datachannel.cpp:2281]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000029AD7BBB UE4Editor-Engine.dll!UActorChannel::ReceivedBunch() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\engine\private\datachannel.cpp:2148]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000029ADCB0C UE4Editor-Engine.dll!UChannel::ReceivedSequencedBunch() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\engine\private\datachannel.cpp:296]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000029ADB1BC UE4Editor-Engine.dll!UChannel::ReceivedNextBunch() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\engine\private\datachannel.cpp:667]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000029ADC7A6 UE4Editor-Engine.dll!UChannel::ReceivedRawBunch() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\engine\private\datachannel.cpp:388]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000029FE2BBD UE4Editor-Engine.dll!UNetConnection::ReceivedPacket() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\engine\private\netconnection.cpp:1540]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000029FE3C37 UE4Editor-Engine.dll!UNetConnection::ReceivedRawPacket() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\engine\private\netconnection.cpp:933]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x000000001F5FF00B UE4Editor-OnlineSubsystemUtils.dll!UIpNetDriver::TickDispatch() [d:\build\++ue4+release-4.19+compile\sync\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\ipnetdriver.cpp:237]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000029FBAD4F UE4Editor-Engine.dll!TBaseUObjectMethodDelegateInstance<0,UNetDriver,void __cdecl(float)>::ExecuteIfSafe() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:659]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x00000000293D3068 UE4Editor-Engine.dll!TBaseMulticastDelegate<void,float>::Broadcast() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:937]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000029E4648D UE4Editor-Engine.dll!UWorld::Tick() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\engine\private\leveltick.cpp:1317]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x000000002C2BD781 UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\unrealed\private\editorengine.cpp:1693]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x000000002CB59626 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\unrealed\private\unrealedengine.cpp:401]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000071AF5EAC UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3339]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000071B06BD0 UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000071B06C4A UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000071B14177 UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x0000000071B15B87 UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x000000007BEC7614 KERNEL32.DLL!UnknownFunction []
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x000000007C5E26A1 ntdll.dll!UnknownFunction []
+[2023.05.26-10.59.04:342][964]LogWindows: Error: [Callstack] 0x000000007C5E26A1 ntdll.dll!UnknownFunction []
+[2023.05.26-10.59.04:342][964]LogWindows: Error: 
+[2023.05.26-10.59.04:353][964]LogExit: Executing StaticShutdownAfterError
+[2023.05.26-10.59.04:357][964]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.05.26-10.59.04:357][964]Log file closed, 05/26/23 19:59:04

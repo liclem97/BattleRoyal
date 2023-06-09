@@ -1,0 +1,868 @@
+﻿Log file open, 04/26/23 16:48:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BattleRoyal
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2062635808) SRandInit(2062635809).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.949486
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.415s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../UE_Project/BattleRoyal/Binaries/Win64/UE4Editor-BattleRoyal-1356.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-A4CSULD (175.197.228.104:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Tools/EpicGames/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.080s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2023.04.26-07.48.22:372][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.26-07.48.22:373][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.04.26-07.48.22:570][  0]LogInit: Computer: DESKTOP-A4CSULD
+[2023.04.26-07.48.22:570][  0]LogInit: User: 82104
+[2023.04.26-07.48.22:570][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.04.26-07.48.22:570][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.26-07.48.22:570][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.04.26-07.48.22:570][  0]LogMemory: Platform Memory Stats for Windows
+[2023.04.26-07.48.22:570][  0]LogMemory: Process Physical Memory: 277.21 MB used, 277.21 MB peak
+[2023.04.26-07.48.22:570][  0]LogMemory: Process Virtual Memory: 267.53 MB used, 267.53 MB peak
+[2023.04.26-07.48.22:570][  0]LogMemory: Physical Memory: 5923.28 MB used,  26792.83 MB free, 32716.11 MB total
+[2023.04.26-07.48.22:570][  0]LogMemory: Virtual Memory: 4808.38 MB used,  26792.83 MB free, 134217728.00 MB total
+[2023.04.26-07.48.23:199][  0]LogInit: Using OS detected language (ko-KR).
+[2023.04.26-07.48.23:199][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.04.26-07.48.23:488][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2023.04.26-07.48.24:062][  0]LogStreaming: Display: Took  0.857s to EndInitTextLocalization.
+[2023.04.26-07.48.24:084][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.26-07.48.24:683][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.26-07.48.24:683][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.26-07.48.29:546][  0]LogD3D11RHI: D3D11 adapters:
+[2023.04.26-07.48.29:708][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2023.04.26-07.48.29:708][  0]LogD3D11RHI:       5979/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.04.26-07.48.29:711][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.04.26-07.48.29:711][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.04.26-07.48.29:711][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.04.26-07.48.29:725][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.04.26-07.48.29:726][  0]LogD3D11RHI:     GPU DeviceId: 0x2182 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.26-07.48.29:726][  0]LogWindows: EnumDisplayDevices:
+[2023.04.26-07.48.29:727][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2023.04.26-07.48.29:727][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:1)
+[2023.04.26-07.48.29:727][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.04.26-07.48.29:727][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.04.26-07.48.29:727][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2023.04.26-07.48.29:727][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2023.04.26-07.48.29:727][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2023.04.26-07.48.29:727][  0]LogD3D11RHI:      Driver Date: Unknown
+[2023.04.26-07.48.29:727][  0]LogRHI: Texture pool is 4185 MB (70% of 5979 MB)
+[2023.04.26-07.48.29:835][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2023.04.26-07.48.29:835][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2023.04.26-07.48.29:835][  0]LogD3D11RHI: Async texture creation enabled
+[2023.04.26-07.48.30:131][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.04.26-07.48.30:152][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2023.04.26-07.48.30:191][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../../../UE_Project/BattleRoyal/Intermediate/Shaders/WorkingDirectory/3496/).
+[2023.04.26-07.48.30:200][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wonjeong/AppData/Local/Temp/UnrealShaderWorkingDir/62C6F70A406806D5F1B9CAAA1CC87BA1/'.
+[2023.04.26-07.48.32:296][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2023.04.26-07.48.32:310][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2023.04.26-07.48.32:325][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2023.04.26-07.48.32:339][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2023.04.26-07.48.32:392][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2023.04.26-07.48.32:407][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2023.04.26-07.48.32:422][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2023.04.26-07.48.32:437][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2023.04.26-07.48.32:444][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2023.04.26-07.48.32:457][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2023.04.26-07.48.32:471][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2023.04.26-07.48.32:484][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2023.04.26-07.48.32:498][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2023.04.26-07.48.32:511][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2023.04.26-07.48.32:524][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2023.04.26-07.48.32:552][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2023.04.26-07.48.32:552][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2023.04.26-07.48.32:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.04.26-07.48.32:579][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2023.04.26-07.48.32:684][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2023.04.26-07.48.32:707][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2023.04.26-07.48.32:720][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2023.04.26-07.48.32:734][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2023.04.26-07.48.32:747][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2023.04.26-07.48.32:767][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2023.04.26-07.48.32:767][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.04.26-07.48.33:659][  0]LogXGEController: Cleaning working directory: C:/Users/Wonjeong/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.04.26-07.48.33:660][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.26-07.48.33:667][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.04.26-07.48.33:667][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.04.26-07.48.36:450][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.04.26-07.48.36:736][  0]LogDerivedDataCache: Loaded boot cache 0.29s 73MB C:/Users/Wonjeong/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2023.04.26-07.48.36:736][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wonjeong/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2023.04.26-07.48.36:736][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UE_Project/BattleRoyal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.26-07.48.36:736][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.04.26-07.48.36:736][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UE_Project/BattleRoyal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.26-07.48.36:736][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.04.26-07.48.36:820][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.04.26-07.48.36:833][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wonjeong/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.26-07.48.36:833][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.26-07.48.36:833][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.04.26-07.48.36:899][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.04.26-07.48.36:949][  0]LogSlate: Using Freetype 2.6.0
+[2023.04.26-07.48.37:072][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.26-07.48.37:072][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.26-07.48.43:973][  0]LogAssetRegistry: FAssetRegistry took 0.0368 seconds to start up
+[2023.04.26-07.48.47:577][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.26-07.48.48:696][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2023.04.26-07.48.48:717][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2023.04.26-07.48.48:728][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.26-07.48.48:728][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2023.04.26-07.48.48:728][  0]LogMeshReduction: No automatic mesh merging module available
+[2023.04.26-07.48.48:728][  0]LogMeshMerging: No automatic mesh merging module available
+[2023.04.26-07.48.49:009][  0]LogNetVersion: BattleRoyal , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3060849375)
+[2023.04.26-07.48.52:330][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.171762 seconds
+[2023.04.26-07.48.52:368][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2023.04.26-07.48.52:368][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2023.04.26-07.48.52:368][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.26-07.49.07:918][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.26-07.49.07:946][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.26-07.49.08:591][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.649300ms] /Game/Characters/Female/Parts/SK_Female_Body_Head.SK_Female_Body_Head
+[2023.04.26-07.49.10:263][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.04.26-07.49.10:263][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.04.26-07.49.10:280][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.04.26-07.49.10:296][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.04.26-07.49.11:062][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.26-07.49.11:227][  0]LogOcInput: OculusInput pre-init called
+[2023.04.26-07.49.11:691][  0]LogEngine: Initializing Engine...
+[2023.04.26-07.49.11:719][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.26-07.49.11:726][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2023.04.26-07.49.11:727][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2023.04.26-07.49.12:531][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.26-07.49.12:661][  0]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.04.26-07.49.12:683][  0]LogInit: FAudioDevice initialized.
+[2023.04.26-07.49.12:770][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/Wonjeong/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2023.04.26-07.49.12:795][  0]LogInit: Texture streaming: Enabled
+[2023.04.26-07.49.12:859][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.26-07.49.13:111][  0]LogInit: Transaction tracking system initialized
+[2023.04.26-07.49.13:360][  0]BlueprintLog: New page: 에디터 로드
+[2023.04.26-07.49.14:031][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2023.04.26-07.49.14:543][  0]LogConsoleResponse: Display: 
+[2023.04.26-07.49.16:123][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.04.26-07.49.16:123][  0]LogCook: Display: Mobile HDR setting 1
+[2023.04.26-07.49.16:123][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2023.04.26-07.49.16:123][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2023.04.26-07.49.16:123][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2023.04.26-07.49.17:511][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2023.04.26-07.49.17:548][  0]Cmd: MAP LOAD FILE="../../../../../../UE_Project/BattleRoyal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.26-07.49.17:652][  0]LightingResults: New page: 라이팅 빌드
+[2023.04.26-07.49.17:831][  0]MapCheck: New page: 맵 체크
+[2023.04.26-07.49.17:831][  0]LightingResults: New page: 라이팅 빌드
+[2023.04.26-07.49.18:971][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0ad98bac0, Size=88, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-07.49.18:988][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0ada62c80, Size=344, Default__AnimBP_Player_C Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player
+[2023.04.26-07.49.19:289][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0ada2e460, Size=4, Default__WidgetBP_Interaction_C Function /Game/Characters/HUD/WidgetBP_Interaction.WidgetBP_Interaction_C:ExecuteUbergraph_WidgetBP_Interaction
+[2023.04.26-07.49.19:574][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0ada62c80, Size=344
+[2023.04.26-07.49.19:574][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0acdef280, Size=344, Default__AnimBP_Player_C Function /Engine/Transient.REINST_AnimBP_Player_C_0:ExecuteUbergraph_AnimBP_Player
+[2023.04.26-07.49.19:575][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0ad98bac0, Size=88
+[2023.04.26-07.49.19:575][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0ad98bac0, Size=88, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_5:ExecuteUbergraph_BP_Player
+[2023.04.26-07.49.19:575][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0ada2e460, Size=4
+[2023.04.26-07.49.19:575][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0ada2e460, Size=4, Default__WidgetBP_Interaction_C Function /Engine/Transient.REINST_WidgetBP_Interaction_C_1:ExecuteUbergraph_WidgetBP_Interaction
+[2023.04.26-07.49.19:639][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0acc7be80, Size=344, Default__AnimBP_Player_C Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player
+[2023.04.26-07.49.19:642][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0acca3a60, Size=88, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-07.49.19:643][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0ada2c420, Size=4, Default__WidgetBP_Interaction_C Function /Game/Characters/HUD/WidgetBP_Interaction.WidgetBP_Interaction_C:ExecuteUbergraph_WidgetBP_Interaction
+[2023.04.26-07.49.20:500][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [6.872300ms] /Game/Characters/Female/Parts/SK_Female_Body_Upper.SK_Female_Body_Upper
+[2023.04.26-07.49.20:508][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [8.371100ms] /Game/Characters/Female/Parts/SK_Female_Body_Lower.SK_Female_Body_Lower
+[2023.04.26-07.49.20:524][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [6.742100ms] /Game/Characters/Female/Parts/SK_Female_Cloth_Helmet_Hair.SK_Female_Cloth_Helmet_Hair
+[2023.04.26-07.49.20:665][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.26-07.49.21:258][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.26-07.49.21:433][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0ad98bac0, Size=88
+[2023.04.26-07.49.21:433][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0acdef280, Size=344
+[2023.04.26-07.49.21:433][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0ada2e460, Size=4
+[2023.04.26-07.49.21:453][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.26-07.49.21:506][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 53.39ms.
+[2023.04.26-07.49.21:506][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.976
+[2023.04.26-07.49.22:801][  0]LogCollectionManager: Loaded 0 collections in 0.021063 seconds
+[2023.04.26-07.49.22:877][  0]LogFileCache: Scanning file cache for directory 'D:/UE_Project/BattleRoyal/Saved/Collections/' took 0.01s
+[2023.04.26-07.49.22:877][  0]LogFileCache: Scanning file cache for directory 'D:/UE_Project/BattleRoyal/Content/Developers/82104/Collections/' took 0.01s
+[2023.04.26-07.49.22:877][  0]LogFileCache: Scanning file cache for directory 'D:/UE_Project/BattleRoyal/Content/Collections/' took 0.01s
+[2023.04.26-07.49.22:877][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2023.04.26-07.49.22:904][  0]LogContentBrowser: Native class hierarchy populated in 0.0255 seconds. Added 2462 classes and 561 folders.
+[2023.04.26-07.49.22:951][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2023.04.26-07.49.24:003][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2023.04.26-07.49.24:042][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2023.04.26-07.49.24:744][  0]LogSlate: Took 0.014029 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.26-07.49.24:829][  0]LogSlate: Took 0.083695 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.04.26-07.49.24:874][  0]LogSlate: Took 0.035068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2023.04.26-07.49.24:918][  0]LogSlate: Took 0.044386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.26-07.49.24:973][  0]LogSlate: Took 0.014120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.26-07.49.25:382][  0]LogRenderer: Reallocating scene render targets to support 1932x748 Format 10 NumSamples 1 (Frame:1).
+[2023.04.26-07.49.25:766][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2023.04.26-07.49.25:766][  0]LogLoad: (Engine Initialization) Total time: 77.66 seconds
+[2023.04.26-07.49.25:766][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.26-07.49.26:206][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.26-07.49.26:375][  0]LogSlate: Took 0.012641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.26-07.49.26:794][  2]LogAssetRegistry: Asset discovery search completed in 42.8428 seconds
+[2023.04.26-07.49.26:796][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2023.04.26-07.49.26:796][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2023.04.26-07.49.26:868][  3]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.26-07.49.27:589][  3]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2023.04.26-07.49.28:016][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f101f19e70, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2023.04.26-07.49.28:016][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f101f19e38, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2023.04.26-08.15.22:000][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.04.26-08.15.22:387][786]LogSlate: Window 'BP_BattlePC' being destroyed
+[2023.04.26-08.15.43:100][246]LogInit: XAudio2 using '24MP76(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.04.26-08.24.18:417][792]LogHotReload: New module detected: UE4Editor-BattleRoyal-2341.dll
+[2023.04.26-08.24.19:432][796]LogHotReload: Starting Hot-Reload from IDE
+[2023.04.26-08.24.19:503][796]LogClass: Could not find existing class BRCharacter in package /Script/BattleRoyal for HotReload, assuming new class
+[2023.04.26-08.24.19:503][796]LogClass: Function Aiming_Req is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function DropWeapon is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function FireAnimation_Multicast is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function FireAnimation_Req is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function MoveForward_Req is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function MoveRight_Req is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function OnRep_Death is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function OnRep_LoadHelmetItem is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function OnRep_LoadLowerItem is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function OnRep_LoadShoesItem is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function OnRep_LoadUpperItem is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function OnRep_LoadWeaponItem is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function OnRep_RifleEquipped is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function RifleEquipped_Req is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function ServerGetNewWeapon is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function TryToPickItem_Req is new.
+[2023.04.26-08.24.19:503][796]LogClass: Function WaistPitch_Req is new.
+[2023.04.26-08.24.19:515][796]LogClass: EPlayingState HotReload.
+[2023.04.26-08.24.19:515][796]LogClass: EItemEquipType HotReload.
+[2023.04.26-08.24.19:515][796]LogClass: ITemTableRow HotReload.
+[2023.04.26-08.24.19:515][796]LogClass: HitScanTrace HotReload.
+[2023.04.26-08.24.19:523][796]LogHotReload: Re-instancing BRCharacter after hot-reload.
+[2023.04.26-08.24.19:539][796]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0acca3a60, Size=88
+[2023.04.26-08.24.19:539][796]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f09afad7e0, Size=88, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_28:ExecuteUbergraph_BP_Player
+[2023.04.26-08.24.19:542][796]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0b772d900, Size=88, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.24.19:881][796]LogContentBrowser: Native class hierarchy updated for 'BattleRoyal' in 0.0009 seconds. Added 10 classes and 3 folders.
+[2023.04.26-08.24.19:884][796]Display: HotReload successful (5 functions remapped  2 scriptstructs remapped)
+[2023.04.26-08.24.20:339][796]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 2463 classes and 563 folders.
+[2023.04.26-08.24.20:390][796]Display: HotReload took  1.0s.
+[2023.04.26-08.28.44:401][958]LogScript: Warning: 존재하지 않는 'bRifleEquipped' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0B2C
+[2023.04.26-08.28.44:401][958]LogScript: Warning: 존재하지 않는 'bAiming' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0B57
+[2023.04.26-08.28.44:402][958]LogScript: Warning: 존재하지 않는 'MoveForwardValue' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0536
+[2023.04.26-08.28.44:402][958]LogScript: Warning: 존재하지 않는 'MoveRightValue' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0569
+[2023.04.26-08.28.44:451][958]LogSlate: Took 0.017263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.26-08.28.44:729][959]LogScript: Warning: 존재하지 않는 'bRifleEquipped' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0B2C
+[2023.04.26-08.28.44:730][959]LogScript: Warning: 존재하지 않는 'bAiming' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0B57
+[2023.04.26-08.28.44:730][959]LogScript: Warning: 존재하지 않는 'MoveForwardValue' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0536
+[2023.04.26-08.28.44:730][959]LogScript: Warning: 존재하지 않는 'MoveRightValue' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0569
+[2023.04.26-08.28.44:737][959]LogSlate: Took 0.004498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.26-08.28.44:823][960]LogScript: Warning: 존재하지 않는 'bRifleEquipped' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0B2C
+[2023.04.26-08.28.44:824][960]LogScript: Warning: 존재하지 않는 'bAiming' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0B57
+[2023.04.26-08.28.44:824][960]LogScript: Warning: 존재하지 않는 'MoveForwardValue' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0536
+[2023.04.26-08.28.44:824][960]LogScript: Warning: 존재하지 않는 'MoveRightValue' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0569
+[2023.04.26-08.28.44:838][961]LogScript: Warning: 존재하지 않는 'bRifleEquipped' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0B2C
+[2023.04.26-08.28.44:838][961]LogScript: Warning: 존재하지 않는 'bAiming' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0B57
+[2023.04.26-08.28.44:838][961]LogScript: Warning: 존재하지 않는 'MoveForwardValue' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0536
+[2023.04.26-08.28.44:838][961]LogScript: Warning: 존재하지 않는 'MoveRightValue' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0569
+[2023.04.26-08.28.44:851][962]LogScript: Warning: 존재하지 않는 'bRifleEquipped' 프로퍼티에 접근하려 했습니다. 패키지/쿠킹된 빌드에서 에디터 전용 프로퍼티를 사용하려는 것은 아닌가요?
+	AnimBP_Player_C /Engine/Transient.World_4:PersistentLevel.BP_Player_C_2.CharacterMesh0.AnimBP_Player_C_5
+	Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:0B2C
+[2023.04.26-08.29.55:913][906]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0b7706080, Size=3264, Default__BP_PlayerBase_C Function /Game/Characters/BP_PlayerBase.BP_PlayerBase_C:ExecuteUbergraph_BP_PlayerBase
+[2023.04.26-08.29.55:916][906]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0d599c580, Size=368, Default__AnimBP_PlayerBase_C Function /Game/Characters/AnimBP_PlayerBase.AnimBP_PlayerBase_C:ExecuteUbergraph_AnimBP_PlayerBase
+[2023.04.26-08.29.56:004][906]LogBlueprint: Warning: [Compiler BP_PlayerBase] Get : 'ItemClassID' variable not found. Base class was probably changed. /Game/Characters/BP_PlayerBase.BP_PlayerBase
+[2023.04.26-08.29.56:005][906]LogBlueprint: Warning: [Compiler BP_PlayerBase] Get : 'Sphere' variable not found. Base class was probably changed. /Game/Characters/BP_PlayerBase.BP_PlayerBase
+[2023.04.26-08.29.56:008][906]LogBlueprint: Warning: [Compiler BP_PlayerBase] Get : 'ItemClassID' variable not found. Base class was probably changed. /Game/Characters/BP_PlayerBase.BP_PlayerBase
+[2023.04.26-08.29.56:009][906]LogBlueprint: Warning: [Compiler BP_PlayerBase] Get : 'DamageAvailable' variable not found. Base class was probably changed. /Game/Characters/BP_PlayerBase.BP_PlayerBase
+[2023.04.26-08.29.56:011][906]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0d599c580, Size=368
+[2023.04.26-08.29.56:011][906]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f116cbef80, Size=368, Default__AnimBP_PlayerBase_C Function /Engine/Transient.REINST_AnimBP_PlayerBase_C_2:ExecuteUbergraph_AnimBP_PlayerBase
+[2023.04.26-08.29.56:013][906]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0b7706080, Size=3264
+[2023.04.26-08.29.56:013][906]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f11605b040, Size=3264, Default__BP_PlayerBase_C Function /Engine/Transient.REINST_BP_PlayerBase_C_30:ExecuteUbergraph_BP_PlayerBase
+[2023.04.26-08.29.56:050][906]LogBlueprint: Error: [Compiler BP_PlayerBase] SpawnActor NONE  스폰 노드에는 반드시  Class  지정이 되어 있어야 합니다.
+[2023.04.26-08.29.56:053][906]LogBlueprint: Warning: [Compiler BP_PlayerBase] 'BP_PlayerBase' 에서 "DamageAvailable" 라는 이름의 변수를 찾을 수 없습니다.
+ DamageAvailable 구하기  에 대해 'BP_PlayerBase' 컴파일이 되었는지 확인하세요.
+[2023.04.26-08.29.56:053][906]LogBlueprint: Error: [Compiler BP_PlayerBase] Object  핀과  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2023.04.26-08.29.56:053][906]LogBlueprint: Error: [Compiler BP_PlayerBase] 사용중인  As BP Battle GS  핀은 더 이상  잘못된 형변환 노드입니다.  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2023.04.26-08.29.56:053][906]LogBlueprint: Error: [Compiler BP_PlayerBase] Return Value  핀과  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2023.04.26-08.29.56:053][906]LogBlueprint: Error: [Compiler BP_PlayerBase] 사용중인  <이름없음>  핀은 더 이상  On Character Death  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2023.04.26-08.29.56:053][906]LogBlueprint: Error: [Compiler BP_PlayerBase] 사용중인  타겟  핀은 더 이상  On Character Death  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2023.04.26-08.29.56:053][906]LogBlueprint: Error: [Compiler BP_PlayerBase] BP_PlayerBase' 에서 "OnCharacterDeath" 라는 이름의 함수를 찾을 수 없습니다.
+ On Character Death  에 대해 'BP_PlayerBase' 컴파일이 되었는지 확인하세요.
+[2023.04.26-08.29.56:053][906]LogBlueprint: Error: [Compiler BP_PlayerBase] Object  핀과  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2023.04.26-08.29.56:053][906]LogBlueprint: Error: [Compiler BP_PlayerBase] 사용중인  As BP Battle PC  핀은 더 이상  잘못된 형변환 노드입니다.  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2023.04.26-08.29.56:053][906]LogBlueprint: Error: [Compiler BP_PlayerBase] Return Value  핀과  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타겟 유형이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2023.04.26-08.29.56:055][906]LogBlueprint: Warning: [Compiler BP_PlayerBase] 'BP_FieldItem_C' 에서 "ItemClassID" 라는 이름의 변수를 찾을 수 없습니다.
+ ItemClassID 구하기  에 대해 'BP_FieldItem_C' 컴파일이 되었는지 확인하세요.
+[2023.04.26-08.29.56:055][906]LogBlueprint: Warning: [Compiler BP_PlayerBase] 기본값이 아닌  Instigator  입력 핀이  SpawnActor NONE  노드에 더 이상 존재하지 않습니다. 노드를 새로고치거나 핀을 기본값으로 리셋시켜 제거하세요.
+[2023.04.26-08.29.56:056][906]LogBlueprint: Error: [Compiler BP_PlayerBase] 사용중인  Interaction Text  핀은 더 이상  설정  노드에 존재하지 않습니다. 노드를 새로고치거나 연결을 끊어 제거하세요.
+[2023.04.26-08.29.56:056][906]LogBlueprint: Error: [Compiler BP_PlayerBase] BRInteractionWidget.InteractionText : 블루프린트 쓰기 가능하지 않습니다.  설정
+[2023.04.26-08.29.56:056][906]LogBlueprint: Warning: [Compiler BP_PlayerBase] 'BP_FieldItem_C' 에서 "ItemClassID" 라는 이름의 변수를 찾을 수 없습니다.
+ ItemClassID 구하기  에 대해 'BP_FieldItem_C' 컴파일이 되었는지 확인하세요.
+[2023.04.26-08.29.56:063][906]LogBlueprint: Warning: [Compiler BP_PlayerBase] 'BP_FieldItem_C' 에서 "Sphere" 라는 이름의 변수를 찾을 수 없습니다.
+ Sphere 구하기  에 대해 'BP_FieldItem_C' 컴파일이 되었는지 확인하세요.
+[2023.04.26-08.29.56:070][906]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f116f66b00, Size=360, Default__AnimBP_PlayerBase_C Function /Game/Characters/AnimBP_PlayerBase.AnimBP_PlayerBase_C:ExecuteUbergraph_AnimBP_PlayerBase
+[2023.04.26-08.29.56:073][906]LogBlueprint: Error: [Compiler BP_PlayerBase] Item Class ID  와 연관된 프로퍼티를 찾지 못했습니다.
+[2023.04.26-08.29.56:073][906]LogBlueprint: Error: [Compiler BP_PlayerBase] Item Class ID  와 연관된 프로퍼티를 찾지 못했습니다.
+[2023.04.26-08.29.56:074][906]LogBlueprint: Error: [Compiler BP_PlayerBase] Damage Available  와 연관된 프로퍼티를 찾지 못했습니다.
+[2023.04.26-08.29.56:077][906]LogBlueprint: Error: [Compiler BP_PlayerBase] Sphere  와 연관된 프로퍼티를 찾지 못했습니다.
+[2023.04.26-08.29.56:078][906]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f116f37040, Size=3176, Default__BP_PlayerBase_C Function /Game/Characters/BP_PlayerBase.BP_PlayerBase_C:ExecuteUbergraph_BP_PlayerBase
+[2023.04.26-08.29.56:082][906]LogBlueprint: Warning: [Compiler BP_PlayerBase] [2507.98] BP_PlayerBase 컴파일에 실패했습니다. 치명적 오류 16 회, 경고 9 회, [소요시간 104 ms] (/Game/Characters/BP_PlayerBase.BP_PlayerBase)
+[2023.04.26-08.30.30:315][839]LogSlate: Window 'BP_PlayerBase' being destroyed
+[2023.04.26-08.31.24:325][ 15]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f09afad7e0, Size=88
+[2023.04.26-08.31.24:325][ 15]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f11605b040, Size=3264
+[2023.04.26-08.31.24:326][ 15]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f116cbef80, Size=368
+[2023.04.26-08.31.24:340][ 15]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.040
+[2023.04.26-08.31.24:366][ 15]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/BP_Player] ([1] browsable assets)...
+[2023.04.26-08.31.24:385][ 15]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/BP_Player.BP_Player]
+[2023.04.26-08.31.24:385][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_Player]
+[2023.04.26-08.31.24:385][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Player" FILE="../../../../../../UE_Project/BattleRoyal/Saved/Autosaves/Game/Characters/BP_Player_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.04.26-08.31.24:483][ 15]LogSavePackage: Save=91.73ms
+[2023.04.26-08.31.24:483][ 15]LogSavePackage: Moving '../../../../../../UE_Project/BattleRoyal/Saved/BP_Player_Auto15759741040117B17D9C4E89CAFB0D190.tmp' to '../../../../../../UE_Project/BattleRoyal/Saved/Autosaves/Game/Characters/BP_Player_Auto1.uasset'
+[2023.04.26-08.31.24:484][ 15]LogSavePackage: Display: Finished SavePackage ../../../../../../UE_Project/BattleRoyal/Saved/Autosaves/Game/Characters/BP_Player_Auto1.uasset
+[2023.04.26-08.31.24:484][ 15]LogFileHelpers: Auto-saving content packages took 0.143
+[2023.04.26-08.33.02:583][310]LogHotReload: New module detected: UE4Editor-BattleRoyal-4731.dll
+[2023.04.26-08.33.03:608][314]LogHotReload: Starting Hot-Reload from IDE
+[2023.04.26-08.33.03:664][314]LogClass: Could not find existing class BRCharacter in package /Script/BattleRoyal for HotReload, assuming new class
+[2023.04.26-08.33.03:664][314]LogClass: Function Aiming_Req is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function DropWeapon is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function FireAnimation_Multicast is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function FireAnimation_Req is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function MoveForward_Req is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function MoveRight_Req is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function OnRep_Death is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function OnRep_LoadHelmetItem is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function OnRep_LoadLowerItem is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function OnRep_LoadShoesItem is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function OnRep_LoadUpperItem is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function OnRep_LoadWeaponItem is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function OnRep_RifleEquipped is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function RifleEquipped_Req is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function ServerGetNewWeapon is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function TryToPickItem_Req is new.
+[2023.04.26-08.33.03:664][314]LogClass: Function WaistPitch_Req is new.
+[2023.04.26-08.33.03:678][314]LogClass: EPlayingState HotReload.
+[2023.04.26-08.33.03:678][314]LogClass: EItemEquipType HotReload.
+[2023.04.26-08.33.03:679][314]LogClass: ITemTableRow HotReload.
+[2023.04.26-08.33.03:679][314]LogClass: HitScanTrace HotReload.
+[2023.04.26-08.33.03:689][314]LogHotReload: Re-instancing BRCharacter after hot-reload.
+[2023.04.26-08.33.03:707][314]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0b772d900, Size=88
+[2023.04.26-08.33.03:707][314]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f1039d75e0, Size=88, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_36:ExecuteUbergraph_BP_Player
+[2023.04.26-08.33.03:710][314]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f10a8ec4c0, Size=88, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.33.04:089][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Player" FILE="../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset" SILENT=true
+[2023.04.26-08.33.04:126][314]LogSavePackage: Save=32.86ms
+[2023.04.26-08.33.04:126][314]LogSavePackage: Moving '../../../../../../UE_Project/BattleRoyal/Saved/BP_Player87108DCE4E1FE8F2CD662AADAD535FEA.tmp' to '../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset'
+[2023.04.26-08.33.04:128][314]LogSavePackage: Display: Finished SavePackage ../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset
+[2023.04.26-08.33.04:245][314]LogContentBrowser: Native class hierarchy updated for 'BattleRoyal' in 0.0009 seconds. Added 10 classes and 3 folders.
+[2023.04.26-08.33.04:248][314]Display: HotReload successful (5 functions remapped  2 scriptstructs remapped)
+[2023.04.26-08.33.04:538][314]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2463 classes and 563 folders.
+[2023.04.26-08.33.04:544][314]Display: HotReload took  0.9s.
+[2023.04.26-08.33.18:953][398]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f139925938, Size=4, Default__SKEL_BP_Player_C Function /Game/Characters/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.34.11:050][702]LogHotReload: New module detected: UE4Editor-BattleRoyal-9240.dll
+[2023.04.26-08.34.12:060][706]LogHotReload: Starting Hot-Reload from IDE
+[2023.04.26-08.34.12:138][706]LogClass: Could not find existing class BRCharacter in package /Script/BattleRoyal for HotReload, assuming new class
+[2023.04.26-08.34.12:138][706]LogClass: Function Aiming_Req is new.
+[2023.04.26-08.34.12:138][706]LogClass: Function DropWeapon is new.
+[2023.04.26-08.34.12:138][706]LogClass: Function FireAnimation_Multicast is new.
+[2023.04.26-08.34.12:138][706]LogClass: Function FireAnimation_Req is new.
+[2023.04.26-08.34.12:138][706]LogClass: Function MoveForward_Req is new.
+[2023.04.26-08.34.12:138][706]LogClass: Function MoveRight_Req is new.
+[2023.04.26-08.34.12:138][706]LogClass: Function OnRep_Death is new.
+[2023.04.26-08.34.12:138][706]LogClass: Function OnRep_LoadHelmetItem is new.
+[2023.04.26-08.34.12:138][706]LogClass: Function OnRep_LoadLowerItem is new.
+[2023.04.26-08.34.12:138][706]LogClass: Function OnRep_LoadShoesItem is new.
+[2023.04.26-08.34.12:138][706]LogClass: Function OnRep_LoadUpperItem is new.
+[2023.04.26-08.34.12:138][706]LogClass: Function OnRep_LoadWeaponItem is new.
+[2023.04.26-08.34.12:138][706]LogClass: Function OnRep_RifleEquipped is new.
+[2023.04.26-08.34.12:138][706]LogClass: Function RifleEquipped_Req is new.
+[2023.04.26-08.34.12:139][706]LogClass: Function ServerGetNewWeapon is new.
+[2023.04.26-08.34.12:139][706]LogClass: Function TryToPickItem_Req is new.
+[2023.04.26-08.34.12:139][706]LogClass: Function WaistPitch_Req is new.
+[2023.04.26-08.34.12:155][706]LogClass: EPlayingState HotReload.
+[2023.04.26-08.34.12:155][706]LogClass: EItemEquipType HotReload.
+[2023.04.26-08.34.12:155][706]LogClass: ITemTableRow HotReload.
+[2023.04.26-08.34.12:155][706]LogClass: HitScanTrace HotReload.
+[2023.04.26-08.34.12:166][706]LogHotReload: Re-instancing BRCharacter after hot-reload.
+[2023.04.26-08.34.12:173][706]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f139925938, Size=4
+[2023.04.26-08.34.12:173][706]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0ca4ca308, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_40:ExecuteUbergraph_BP_Player
+[2023.04.26-08.34.12:185][706]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f10a8ec4c0, Size=88
+[2023.04.26-08.34.12:186][706]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0d59adc60, Size=88, BP_Player_C_12 Function /Engine/Transient.REINST_BP_Player_C_43:ExecuteUbergraph_BP_Player
+[2023.04.26-08.34.12:189][706]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0d59ac220, Size=88, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.34.12:708][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Player" FILE="../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset" SILENT=true
+[2023.04.26-08.34.12:747][706]LogSavePackage: Save=34.35ms
+[2023.04.26-08.34.12:747][706]LogSavePackage: Moving '../../../../../../UE_Project/BattleRoyal/Saved/BP_Player0A9C87CE463DC1F6866648AB1D74B78B.tmp' to '../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset'
+[2023.04.26-08.34.12:749][706]LogSavePackage: Display: Finished SavePackage ../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset
+[2023.04.26-08.34.12:879][706]LogContentBrowser: Native class hierarchy updated for 'BattleRoyal' in 0.0010 seconds. Added 10 classes and 3 folders.
+[2023.04.26-08.34.12:884][706]Display: HotReload successful (5 functions remapped  2 scriptstructs remapped)
+[2023.04.26-08.34.12:935][706]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0ca4ca308, Size=4
+[2023.04.26-08.34.13:186][706]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2463 classes and 563 folders.
+[2023.04.26-08.34.13:192][706]Display: HotReload took  1.1s.
+[2023.04.26-08.35.22:968][136]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f137b56ec0, Size=4, Default__SKEL_BP_Player_C Function /Game/Characters/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.36.03:784][112]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f137b56ec0, Size=4
+[2023.04.26-08.36.03:784][112]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f146eb5a30, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_47:ExecuteUbergraph_BP_Player
+[2023.04.26-08.36.03:787][112]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f146eb5888, Size=4, Default__SKEL_BP_Player_C Function /Game/Characters/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.36.06:359][297]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f146eb5888, Size=4
+[2023.04.26-08.36.06:360][297]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f147190300, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_49:ExecuteUbergraph_BP_Player
+[2023.04.26-08.36.06:362][297]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f147190608, Size=4, Default__SKEL_BP_Player_C Function /Game/Characters/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.36.29:515][ 25]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f147190608, Size=4
+[2023.04.26-08.36.29:515][ 25]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0ca4ca048, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_51:ExecuteUbergraph_BP_Player
+[2023.04.26-08.36.29:518][ 25]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0ca4c9bc0, Size=4, Default__SKEL_BP_Player_C Function /Game/Characters/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.37.22:420][103]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0ca4c9bc0, Size=4
+[2023.04.26-08.37.22:420][103]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f13c0fd0b8, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_53:ExecuteUbergraph_BP_Player
+[2023.04.26-08.37.22:423][103]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f13c0fd450, Size=4, Default__SKEL_BP_Player_C Function /Game/Characters/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.37.45:271][769]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f13c0fd450, Size=4
+[2023.04.26-08.37.45:271][769]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f14a4bb328, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_55:ExecuteUbergraph_BP_Player
+[2023.04.26-08.37.45:274][769]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f14a4bb120, Size=4, Default__SKEL_BP_Player_C Function /Game/Characters/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.37.50:039][140]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f14a4bb120, Size=4
+[2023.04.26-08.37.50:039][140]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f146eb4dd8, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_57:ExecuteUbergraph_BP_Player
+[2023.04.26-08.37.50:042][140]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f146eb4320, Size=4, Default__SKEL_BP_Player_C Function /Game/Characters/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.38.10:888][605]BlueprintLog: New page: BP_Player 컴파일
+[2023.04.26-08.38.10:903][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f146eb4320, Size=4
+[2023.04.26-08.38.10:903][605]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f13c0fda10, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_59:ExecuteUbergraph_BP_Player
+[2023.04.26-08.38.10:925][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0d59ac220, Size=88
+[2023.04.26-08.38.10:926][605]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0cf035480, Size=88, BP_Player_C_49 Function /Engine/Transient.REINST_BP_Player_C_62:ExecuteUbergraph_BP_Player
+[2023.04.26-08.38.10:929][605]LogBlueprint: Warning: [Compiler BP_Player] BRCharacter.Helmet : 블루프린트에서 보이도록 (BlueprintReadOnly 또는  BlueprintReadWrite) 되어있지 않습니다. 마크업을 수정하거나 접근을 중단하지 않으면, 앞으로 릴리즈에서 오류가 발생할 것입니다.  Helmet 구하기
+[2023.04.26-08.38.10:929][605]LogBlueprint: Warning: [Compiler BP_Player] BRCharacter.Lower : 블루프린트에서 보이도록 (BlueprintReadOnly 또는  BlueprintReadWrite) 되어있지 않습니다. 마크업을 수정하거나 접근을 중단하지 않으면, 앞으로 릴리즈에서 오류가 발생할 것입니다.  Lower 구하기
+[2023.04.26-08.38.10:929][605]LogBlueprint: Warning: [Compiler BP_Player] BRCharacter.Upper : 블루프린트에서 보이도록 (BlueprintReadOnly 또는  BlueprintReadWrite) 되어있지 않습니다. 마크업을 수정하거나 접근을 중단하지 않으면, 앞으로 릴리즈에서 오류가 발생할 것입니다.  Upper 구하기
+[2023.04.26-08.38.10:933][605]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f144faab00, Size=792, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.38.11:702][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f147190300, Size=4
+[2023.04.26-08.38.11:702][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f13c0fd0b8, Size=4
+[2023.04.26-08.38.11:702][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f146eb4dd8, Size=4
+[2023.04.26-08.38.11:702][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f13c0fda10, Size=4
+[2023.04.26-08.38.11:755][605]LogBlueprint: Warning: [Compiler BP_Player] [3003.65] BP_Player 컴파일에 성공했습니다만, 경고가 3 회 있습니다. [소요시간 865 ms] (/Game/Characters/BP_Player.BP_Player)
+[2023.04.26-08.38.43:728][445]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f1380a7e40, Size=4, Default__SKEL_BP_Player_C Function /Game/Characters/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.38.50:130][875]LogHotReload: New module detected: UE4Editor-BattleRoyal-8061.dll
+[2023.04.26-08.38.50:579][893]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f1380a7e40, Size=4
+[2023.04.26-08.38.50:579][893]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f137ed7470, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_66:ExecuteUbergraph_BP_Player
+[2023.04.26-08.38.50:583][893]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f137ed70a0, Size=4, Default__SKEL_BP_Player_C Function /Game/Characters/BP_Player.SKEL_BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.38.51:123][910]LogHotReload: Starting Hot-Reload from IDE
+[2023.04.26-08.38.51:171][910]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f137ed7470, Size=4
+[2023.04.26-08.38.51:220][910]LogClass: Could not find existing class BRCharacter in package /Script/BattleRoyal for HotReload, assuming new class
+[2023.04.26-08.38.51:220][910]LogClass: Function Aiming_Req is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function DropWeapon is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function FireAnimation_Multicast is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function FireAnimation_Req is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function MoveForward_Req is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function MoveRight_Req is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function OnRep_Death is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function OnRep_LoadHelmetItem is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function OnRep_LoadLowerItem is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function OnRep_LoadShoesItem is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function OnRep_LoadUpperItem is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function OnRep_LoadWeaponItem is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function OnRep_RifleEquipped is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function RifleEquipped_Req is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function ServerGetNewWeapon is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function TryToPickItem_Req is new.
+[2023.04.26-08.38.51:220][910]LogClass: Function WaistPitch_Req is new.
+[2023.04.26-08.38.51:238][910]LogClass: EPlayingState HotReload.
+[2023.04.26-08.38.51:238][910]LogClass: EItemEquipType HotReload.
+[2023.04.26-08.38.51:238][910]LogClass: ITemTableRow HotReload.
+[2023.04.26-08.38.51:238][910]LogClass: HitScanTrace HotReload.
+[2023.04.26-08.38.51:249][910]LogHotReload: Re-instancing BRCharacter after hot-reload.
+[2023.04.26-08.38.51:266][910]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f137ed70a0, Size=4
+[2023.04.26-08.38.51:266][910]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f1380a73a8, Size=4, Default__SKEL_BP_Player_C Function /Engine/Transient.REINST_SKEL_BP_Player_C_68:ExecuteUbergraph_BP_Player
+[2023.04.26-08.38.51:332][910]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0acc7be80, Size=344
+[2023.04.26-08.38.51:332][910]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f12c5e2080, Size=344, Default__AnimBP_Player_C Function /Engine/Transient.REINST_AnimBP_Player_C_7:ExecuteUbergraph_AnimBP_Player
+[2023.04.26-08.38.51:333][910]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f144faab00, Size=792
+[2023.04.26-08.38.51:333][910]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f12c4e8f00, Size=792, BP_Player_C_70 Function /Engine/Transient.REINST_BP_Player_C_71:ExecuteUbergraph_BP_Player
+[2023.04.26-08.38.51:340][910]LogBlueprint: Error: [Compiler AnimBP_Player] 타겟  핀과  As BP Player  핀을 연결할 수 없습니다: BRCharacter 오브젝트 레퍼런스 유형은 BP Player 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2023.04.26-08.38.51:340][910]LogBlueprint: Error: [Compiler AnimBP_Player] 타겟  핀과  As BP Player  핀을 연결할 수 없습니다: BRCharacter 오브젝트 레퍼런스 유형은 BP Player 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2023.04.26-08.38.51:340][910]LogBlueprint: Error: [Compiler AnimBP_Player] As BP Player  핀과  타겟  핀을 연결할 수 없습니다: BP Player 오브젝트 레퍼런스 유형은 BRCharacter 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2023.04.26-08.38.51:340][910]LogBlueprint: Error: [Compiler AnimBP_Player] 타겟  핀과  As BP Player  핀을 연결할 수 없습니다: BRCharacter 오브젝트 레퍼런스 유형은 BP Player 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2023.04.26-08.38.51:340][910]LogBlueprint: Error: [Compiler AnimBP_Player] 타겟  핀과  As BP Player  핀을 연결할 수 없습니다: BRCharacter 오브젝트 레퍼런스 유형은 BP Player 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2023.04.26-08.38.51:340][910]LogBlueprint: Error: [Compiler AnimBP_Player] 타겟  핀과  As BP Player  핀을 연결할 수 없습니다: BRCharacter 오브젝트 레퍼런스 유형은 BP Player 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2023.04.26-08.38.51:352][910]LogBlueprint: Error: [Compiler AnimBP_Player] 타겟  핀과  As BP Player  핀을 연결할 수 없습니다: BRCharacter 오브젝트 레퍼런스 유형은 BP Player 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2023.04.26-08.38.51:352][910]LogBlueprint: Error: [Compiler AnimBP_Player] 타겟  핀과  As BP Player  핀을 연결할 수 없습니다: BRCharacter 오브젝트 레퍼런스 유형은 BP Player 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2023.04.26-08.38.51:352][910]LogBlueprint: Error: [Compiler AnimBP_Player] As BP Player  핀과  타겟  핀을 연결할 수 없습니다: BP Player 오브젝트 레퍼런스 유형은 BRCharacter 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2023.04.26-08.38.51:352][910]LogBlueprint: Error: [Compiler AnimBP_Player] 타겟  핀과  As BP Player  핀을 연결할 수 없습니다: BRCharacter 오브젝트 레퍼런스 유형은 BP Player 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2023.04.26-08.38.51:352][910]LogBlueprint: Error: [Compiler AnimBP_Player] 타겟  핀과  As BP Player  핀을 연결할 수 없습니다: BRCharacter 오브젝트 레퍼런스 유형은 BP Player 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2023.04.26-08.38.51:353][910]LogBlueprint: Error: [Compiler AnimBP_Player] 타겟  핀과  As BP Player  핀을 연결할 수 없습니다: BRCharacter 오브젝트 레퍼런스 유형은 BP Player 오브젝트 레퍼런스 유형과 호환되지 않습니다.
+[2023.04.26-08.38.51:365][910]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f135df1480, Size=344, Default__AnimBP_Player_C Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player
+[2023.04.26-08.38.51:367][910]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f14630b200, Size=800, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.38.51:372][910]LogBlueprint: Warning: [Compiler AnimBP_Player] [3043.27] AnimBP_Player 컴파일에 실패했습니다. 치명적 오류 12 회, 경고 0 회, [소요시간 106 ms] (/Game/Characters/AnimBP_Player.AnimBP_Player)
+[2023.04.26-08.38.52:177][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Player" FILE="../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset" SILENT=true
+[2023.04.26-08.38.52:243][910]LogSavePackage: Save=59.88ms
+[2023.04.26-08.38.52:243][910]LogSavePackage: Moving '../../../../../../UE_Project/BattleRoyal/Saved/BP_Player11EC5746456AE0D6CE42EDB6444E14F8.tmp' to '../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset'
+[2023.04.26-08.38.52:244][910]LogSavePackage: Display: Finished SavePackage ../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset
+[2023.04.26-08.38.52:377][910]LogContentBrowser: Native class hierarchy updated for 'BattleRoyal' in 0.0009 seconds. Added 10 classes and 3 folders.
+[2023.04.26-08.38.52:381][910]Display: HotReload successful (5 functions remapped  2 scriptstructs remapped)
+[2023.04.26-08.38.52:433][910]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f12c5e2080, Size=344
+[2023.04.26-08.38.52:434][910]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f1380a73a8, Size=4
+[2023.04.26-08.38.52:686][910]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2463 classes and 563 folders.
+[2023.04.26-08.38.52:692][910]Display: HotReload took  1.6s.
+[2023.04.26-08.39.22:574][956]BlueprintLog: New page: BP_Player 컴파일
+[2023.04.26-08.39.22:645][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f135df1480, Size=344
+[2023.04.26-08.39.22:645][956]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f14ce5c880, Size=344, Default__AnimBP_Player_C Function /Engine/Transient.REINST_AnimBP_Player_C_9:ExecuteUbergraph_AnimBP_Player
+[2023.04.26-08.39.22:645][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f14630b200, Size=800
+[2023.04.26-08.39.22:645][956]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f14ddba780, Size=800, BP_Player_C_83 Function /Engine/Transient.REINST_BP_Player_C_77:ExecuteUbergraph_BP_Player
+[2023.04.26-08.39.22:674][956]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f132b79c00, Size=344, Default__AnimBP_Player_C Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player
+[2023.04.26-08.39.22:677][956]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f1458d6000, Size=1024, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.39.23:825][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Player" FILE="../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset" SILENT=true
+[2023.04.26-08.39.23:889][956]LogSavePackage: Save=59.64ms
+[2023.04.26-08.39.23:889][956]LogSavePackage: Moving '../../../../../../UE_Project/BattleRoyal/Saved/BP_Player89F32B2641D2685D65B9CAB5AC080532.tmp' to '../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset'
+[2023.04.26-08.39.23:891][956]LogSavePackage: Display: Finished SavePackage ../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset
+[2023.04.26-08.39.56:709][277]BlueprintLog: New page: BP_Player 컴파일
+[2023.04.26-08.39.56:781][277]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f132b79c00, Size=344
+[2023.04.26-08.39.56:781][277]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0ddeeac80, Size=344, AnimBP_Player_C_64 Function /Engine/Transient.REINST_AnimBP_Player_C_11:ExecuteUbergraph_AnimBP_Player
+[2023.04.26-08.39.56:781][277]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f1458d6000, Size=1024
+[2023.04.26-08.39.56:781][277]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f095b17000, Size=1024, BP_Player_C_113 Function /Engine/Transient.REINST_BP_Player_C_83:ExecuteUbergraph_BP_Player
+[2023.04.26-08.39.56:810][277]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f0de217d00, Size=344, Default__AnimBP_Player_C Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player
+[2023.04.26-08.39.56:813][277]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f14e33d800, Size=1024, Default__BP_Player_C Function /Game/Characters/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2023.04.26-08.39.57:309][277]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f14ddba780, Size=800
+[2023.04.26-08.39.57:309][277]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f14ce5c880, Size=344
+[2023.04.26-08.39.57:374][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Player" FILE="../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset" SILENT=true
+[2023.04.26-08.39.57:438][277]LogSavePackage: Save=59.23ms
+[2023.04.26-08.39.57:438][277]LogSavePackage: Moving '../../../../../../UE_Project/BattleRoyal/Saved/BP_Player513DA8DB40D30E63CF057DBDAD94B616.tmp' to '../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset'
+[2023.04.26-08.39.57:439][277]LogSavePackage: Display: Finished SavePackage ../../../../../../UE_Project/BattleRoyal/Content/Characters/BP_Player.uasset
+[2023.04.26-08.39.59:324][361]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2023.04.26-08.39.59:721][361]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.26-08.39.59:755][361]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2023.04.26-08.40.00:070][361]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2023.04.26-08.40.00:561][361]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2023.04.26-08.40.04:836][617]BlueprintLog: New page: AnimBP_Player 컴파일
+[2023.04.26-08.40.04:909][617]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0de217d00, Size=344
+[2023.04.26-08.40.04:909][617]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f096614280, Size=344, Default__AnimBP_Player_C Function /Engine/Transient.REINST_AnimBP_Player_C_13:ExecuteUbergraph_AnimBP_Player
+[2023.04.26-08.40.04:932][617]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f116f77880, Size=344, Default__AnimBP_Player_C Function /Game/Characters/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player
+[2023.04.26-08.40.05:088][617]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f0ddeeac80, Size=344
+[2023.04.26-08.40.05:138][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AnimBP_Player" FILE="../../../../../../UE_Project/BattleRoyal/Content/Characters/AnimBP_Player.uasset" SILENT=true
+[2023.04.26-08.40.05:312][617]LogSavePackage: Save=167.98ms
+[2023.04.26-08.40.05:312][617]LogSavePackage: Moving '../../../../../../UE_Project/BattleRoyal/Saved/AnimBP_Player6947CD9045EB9D9771AFB1984A2CB83C.tmp' to '../../../../../../UE_Project/BattleRoyal/Content/Characters/AnimBP_Player.uasset'
+[2023.04.26-08.40.05:313][617]LogSavePackage: Display: Finished SavePackage ../../../../../../UE_Project/BattleRoyal/Content/Characters/AnimBP_Player.uasset
+[2023.04.26-08.40.07:449][755]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2023.04.26-08.40.07:484][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.26-08.40.07:484][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.26-08.40.08:944][755]LogSlate: Window '메시지' being destroyed
+[2023.04.26-08.40.08:965][755]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 4. 27. 오전 2:40:08)
+[2023.04.26-08.40.08:965][755]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2023.04.26-08.40.09:006][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040405s)
+[2023.04.26-08.40.09:007][755]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.26-08.40.09:007][755]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2023.04.26-08.40.09:007][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.041604s)
+[2023.04.26-08.40.09:033][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f096614280, Size=344
+[2023.04.26-08.40.09:058][755]LogLoad: Game class is 'BP_BattleGM_C'
+[2023.04.26-08.40.09:059][755]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.26-17.40.09
+[2023.04.26-08.40.09:074][755]LogWorld: Bringing up level for play took: 0.016037
+[2023.04.26-08.40.09:084][755]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.04.26-08.40.09:084][755]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2023.04.26-08.40.09:084][755]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.04.26-08.40.09:084][755]LogInit: WinSock: Socket queue 131072 / 131072
+[2023.04.26-08.40.09:084][755]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.26-08.40.09:090][755]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2023.04.26-08.40.09:098][755]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.088
+[2023.04.26-08.40.09:102][755]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 4. 27. 오전 2:40:09)
+[2023.04.26-08.40.09:114][755]LogInit: XAudio2 using '24MP76(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.04.26-08.40.09:123][755]LogInit: FAudioDevice initialized.
+[2023.04.26-08.40.09:219][755]LogSlate: Took 0.006547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.04.26-08.40.09:228][755]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.04.26-08.40.09:228][755]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.04.26-08.40.09:228][755]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2023.04.26-08.40.09:228][755]LogTemp: Display: ParseSettings for PendingNetDriver
+[2023.04.26-08.40.09:228][755]LogInit: WinSock: Socket queue 32768 / 32768
+[2023.04.26-08.40.09:229][755]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.26-08.40.09:236][755]LogNet: Game client on port 17777, rate 10000
+[2023.04.26-08.40.09:251][755]PIE: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.24
+[2023.04.26-08.40.09:255][755]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 4. 27. 오전 2:40:09)
+[2023.04.26-08.40.09:270][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.04.26-08.40.09:333][755]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.04.26-08.40.09:333][755]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.04.26-08.40.09:333][755]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2023.04.26-08.40.09:334][755]LogTemp: Display: ParseSettings for PendingNetDriver
+[2023.04.26-08.40.09:334][755]LogInit: WinSock: Socket queue 32768 / 32768
+[2023.04.26-08.40.09:334][755]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.26-08.40.09:334][755]LogNet: Game client on port 17777, rate 10000
+[2023.04.26-08.40.09:349][755]PIE: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.339
+[2023.04.26-08.40.09:376][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2023.04.26-08.40.09:376][755]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57811
+[2023.04.26-08.40.09:376][755]LogHandshake: SendConnectChallenge. Timestamp: 0.013650, Cookie: 149161099221179174130178047210033050038039123097083192031255
+[2023.04.26-08.40.09:376][755]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57812
+[2023.04.26-08.40.09:376][755]LogHandshake: SendConnectChallenge. Timestamp: 0.013650, Cookie: 205065150118173116170127016126013088190021245127149065188127
+[2023.04.26-08.40.09:404][755]LogHandshake: SendChallengeResponse. Timestamp: 0.013650, Cookie: 149161099221179174130178047210033050038039123097083192031255
+[2023.04.26-08.40.09:405][755]LogHandshake: SendChallengeResponse. Timestamp: 0.013650, Cookie: 205065150118173116170127016126013088190021245127149065188127
+[2023.04.26-08.40.09:531][756]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57811
+[2023.04.26-08.40.09:531][756]LogHandshake: SendChallengeAck. InCookie: 149161099221179174130178047210033050038039123097083192031255
+[2023.04.26-08.40.09:532][756]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57811
+[2023.04.26-08.40.09:532][756]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.26-08.40.09:532][756]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 04/26/23 17:40:09, [UNetConnection] RemoteAddr: 127.0.0.1:57811, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.04.26-08.40.09:532][756]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57811, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.04.26-08.40.09:532][756]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57812
+[2023.04.26-08.40.09:532][756]LogHandshake: SendChallengeAck. InCookie: 205065150118173116170127016126013088190021245127149065188127
+[2023.04.26-08.40.09:532][756]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57812
+[2023.04.26-08.40.09:532][756]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.26-08.40.09:532][756]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 04/26/23 17:40:09, [UNetConnection] RemoteAddr: 127.0.0.1:57812, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.04.26-08.40.09:532][756]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57812, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.04.26-08.40.09:532][756]LogTemp: Remain Time To Start : 15
+[2023.04.26-08.40.09:533][756]LogNetVersion: BattleRoyal 1.0.0.0, NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2679550379)
+[2023.04.26-08.40.09:533][756]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.04.26-08.40.09:533][756]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.04.26-08.40.09:557][757]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2023.04.26-08.40.09:567][757]LogNet: Remote platform little endian=1
+[2023.04.26-08.40.09:567][757]LogNet: This platform little endian=1
+[2023.04.26-08.40.09:568][757]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2023.04.26-08.40.09:568][757]LogNet: Remote platform little endian=1
+[2023.04.26-08.40.09:568][757]LogNet: This platform little endian=1
+[2023.04.26-08.40.09:589][758]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2023.04.26-08.40.09:594][758]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2023.04.26-08.40.09:594][758]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/GameMode/BP_BattleGM.BP_BattleGM_C)
+[2023.04.26-08.40.09:594][758]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/GameMode/BP_BattleGM.BP_BattleGM_C
+[2023.04.26-08.40.09:632][758]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.26-08.40.09:632][758]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.04.26-08.40.09:634][758]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.26-17.40.09
+[2023.04.26-08.40.09:634][758]LogWorld: Bringing up level for play took: 0.001125
+[2023.04.26-08.40.09:634][758]LogLoad: Took 0.039993 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2023.04.26-08.40.09:643][758]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/GameMode/BP_BattleGM.BP_BattleGM_C)
+[2023.04.26-08.40.09:651][758]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/GameMode/BP_BattleGM.BP_BattleGM_C
+[2023.04.26-08.40.09:690][758]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.26-08.40.09:690][758]LogTemp: Display: ParseSettings for GameNetDriver
+[2023.04.26-08.40.09:691][758]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_3_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.26-17.40.09
+[2023.04.26-08.40.09:691][758]LogWorld: Bringing up level for play took: 0.000963
+[2023.04.26-08.40.09:692][758]LogLoad: Took 0.040167 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2023.04.26-08.40.09:733][759]LogNet: Client netspeed is 10000
+[2023.04.26-08.40.09:734][759]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2023.04.26-08.40.09:778][759]LogTemp: GM : PostLogin
+[2023.04.26-08.40.09:778][759]LogNet: Join succeeded: 256
+[2023.04.26-08.40.09:778][759]LogNet: Client netspeed is 10000
+[2023.04.26-08.40.09:778][759]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2023.04.26-08.40.09:781][759]LogTemp: GM : PostLogin
+[2023.04.26-08.40.09:781][759]LogNet: Join succeeded: 257
+[2023.04.26-08.40.10:141][773]LogTemp: Remain Time To Start : 14
+[2023.04.26-08.40.10:142][773]LogTemp: Warning: 전투시작까지 14초 남았습니다.
+[2023.04.26-08.40.10:143][773]LogTemp: Warning: 전투시작까지 14초 남았습니다.
+[2023.04.26-08.40.11:132][820]LogTemp: Remain Time To Start : 13
+[2023.04.26-08.40.11:133][820]LogTemp: Warning: 전투시작까지 13초 남았습니다.
+[2023.04.26-08.40.11:133][820]LogTemp: Warning: 전투시작까지 13초 남았습니다.
+[2023.04.26-08.40.12:131][870]LogTemp: Remain Time To Start : 12
+[2023.04.26-08.40.12:131][870]LogTemp: Warning: 전투시작까지 12초 남았습니다.
+[2023.04.26-08.40.12:132][870]LogTemp: Warning: 전투시작까지 12초 남았습니다.
+[2023.04.26-08.40.12:491][888]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Player_C_1. Function ServerGetNewWeapon will not be processed.
+[2023.04.26-08.40.13:144][920]LogTemp: Remain Time To Start : 11
+[2023.04.26-08.40.13:144][920]LogTemp: Warning: 전투시작까지 11초 남았습니다.
+[2023.04.26-08.40.13:164][921]LogTemp: Warning: 전투시작까지 11초 남았습니다.
+[2023.04.26-08.40.13:365][931]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
